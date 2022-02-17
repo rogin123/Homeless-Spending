@@ -1,0 +1,999 @@
+Email,FirstName,LastName,Bounce,Status,Notes,OrgName
+director@anchoragehomeless.org,Jasmine,Khan,Yes,,,AK-500 - Anchorage CoC
+tdonovan@anchoragehomeless.org,Taylor,Donovan,Yes,,,AK-500 - Anchorage CoC
+jsmerud@ahfc.us,Jennifer,Smerud,,,,AK-501 - Alaska Balance of State CoC
+sbrogan@ak.org,Sue,Brogan,,,,AK-501 - Alaska Balance of State CoC
+director@alaskahousing-homeless.org,Brian,Wilson,,,,AK-501 - Alaska Balance of State CoC
+michelle@oneroofonline.org,Michelle,Farley,,,,"AL-500 - Birmingham/Jefferson, Saint Clair, Shelby Counties CoC"
+help@oneroofonline.org,Jennifer,Harrell,,,,"AL-500 - Birmingham/Jefferson, Saint Clair, Shelby Counties CoC"
+Jeri@oneroofonline.org,Jeri,Tindal,,,,"AL-500 - Birmingham/Jefferson, Saint Clair, Shelby Counties CoC"
+d.boulware@hfal.org,Derek,Boulware,,Complete,,AL-501 - Mobile City and County/Baldwin County CoC
+lbrown@hfal.org,Lydia,Brown,,Complete,,AL-501 - Mobile City and County/Baldwin County CoC
+hccnwal@gmail.com,Ashley,Smith,,,,AL-502 - Florence/Northwest Alabama CoC
+mollierholland@gmail.com,Mollie,Holland,,,,AL-502 - Florence/Northwest Alabama CoC
+indigo@uwshoals.org,Indigo,Fort,,,,AL-502 - Florence/Northwest Alabama CoC
+director@nachcares.org,Lineise,"Arnold, Msw",,,,AL-503 - Huntsville/North Alabama CoC
+Director@alcfamilyresourcecenter.org,Tina,Cook,,,NEW EMAIL ,AL-503 - Huntsville/North Alabama CoC
+hmis@nachcares.org,Deepa,Manandhar,,,,AL-503 - Huntsville/North Alabama CoC
+lydia@midalhomeless.org,Lydia,Pickett,,,,AL-504 - Montgomery City and County CoC
+mach@midalhomeless.org,Patrick,Aiken,,,,AL-504 - Montgomery City and County CoC
+tcooper@handsonriverregion.org,Tasha,Cooper,,,,AL-504 - Montgomery City and County CoC
+kmontgomery@tuscaloosa.com,Kimberly,Montgomery,,,,AL-506 - Tuscaloosa City and County CoC
+felicia@archconnection.org,Felicia,Jackson,,,,AL-507 - Alabama Balance of State CoC
+lillian@archconnection.org,Lillian,Zaworski,,,,AL-507 - Alabama Balance of State CoC
+slnichols@littlerock.gov,Salecia,Nichols,,Complete,,AR-500 - Little Rock/Central Arkansas CoC
+mspencergardner@littlerock.gov,Michelle,Spencer,,Complete,,AR-500 - Little Rock/Central Arkansas CoC
+atingquist@pulaskicounty.net,Alex,Tingquist,,Complete,,AR-500 - Little Rock/Central Arkansas CoC
+khoward@littlerock.gov,Kevin,Howard,,Complete,,AR-500 - Little Rock/Central Arkansas CoC
+atingquist@pulaskicounty.net,Alex,Tingquist,,,,AR-501 - Fayetteville/Northwest Arkansas CoC
+pam.hutcheson@nwacoc.com,Pam,Hutcheson,,,,AR-501 - Fayetteville/Northwest Arkansas CoC
+slegal@occnet.org,Sue,Legal,,,,AR-503 - Arkansas Balance of State CoC
+flove@pulaskicounty.net,Frederick,Love,,,,AR-503 - Arkansas Balance of State CoC
+atingquist@pulaskicounty.net,Alex,Tingquist,,,,AR-503 - Arkansas Balance of State CoC
+cmorris@nadcinc.org,Charlie,Morris,,,,AR-504 - Delta Hills CoC
+ln@casawomensshelter.org,Leah,Nooner,,,,AR-505 - Southeast Arkansas CoC
+normap@cityofpinebluff.com,Norma,Payne,,,,AR-505 - Southeast Arkansas CoC
+andy.halfhill@lrcmhc.com,Andy,Halfhill,,,,AR-505 - Southeast Arkansas CoC
+slegal@occnet.org,Sue,Legal,,,,AR-509 - Hot Springs/South West Arkansas CoC
+atingquist@pulaskicounty.net,Alex,Tingquist,,,,AR-509 - Hot Springs/South West Arkansas CoC
+leuga_turner@yahoo.com,Leiataua Leuga,"Turner, Msw",,,,AS-500 - American Samoa CoC
+royausage684@yahoo.com,Roy,Ausage Sr.,,,,AS-500 - American Samoa CoC
+kinari.patel@azhousing.gov,Kinari,Patel,,,,AZ-500 - Arizona Balance of State CoC
+liz.morales@tucsonaz.gov,Liz,Morales,,Complete,,AZ-501 - Tucson/Pima County CoC
+jason.thorpe@tucsonaz.gov,Jason,Thorpe,,Complete,,AZ-501 - Tucson/Pima County CoC
+pamela.moseley@pima.gov,Pamela,Moseley,,Complete,,AZ-501 - Tucson/Pima County CoC
+jmontoya@azmag.gov,Julie,Montoya,,,,"AZ-502 - Phoenix, Mesa/Maricopa County CoC"
+Amys@hsc-az.org,Amy,Schwabenlender,,,,"AZ-502 - Phoenix, Mesa/Maricopa County CoC"
+Tyler.Rosensteel@crisisnetwork.org,Tyler,Rosensteel,,,,"AZ-502 - Phoenix, Mesa/Maricopa County CoC"
+kathryn.kaminski@hhs.sccgov.org,Kathryn,Kaminski,,,,"CA-500 - San Jose, Santa Clara City and County CoC"
+linda.jones@hhs.sccgov.org,Linda,Jones,,,,"CA-500 - San Jose, Santa Clara City and County CoC"
+nicole.mccray-dickerson@sfgov.org,Nicole,Mccray-Dickerson,,Complete,,CA-501 - San Francisco CoC
+jasons@bitfocus.com,Jason,Satterfield,,Complete,,CA-501 - San Francisco CoC
+riley.wilkerson@acgov.org,Riley,Wilkerson,,,,"CA-502 - Oakland, Berkeley/Alameda County CoC"
+info@everyonehome.org,Ja'Nai,Aubry,,,,"CA-502 - Oakland, Berkeley/Alameda County CoC"
+mwatts@sacstepsforward.org,Michele,Watts,,Complete,,CA-503 - Sacramento City and County CoC
+nlee@sacstepsforward.org,Nick,Lee,,Complete,,CA-503 - Sacramento City and County CoC
+cweare@sacstepsforward.org,Chris,Weare,,Complete,,CA-503 - Sacramento City and County CoC
+Michael.Gause@sonoma-county.org,Michael,Gause,,Complete,,"CA-504 - Santa Rosa, Petaluma/Sonoma County CoC"
+Daniel.Overbury-Howland@sonoma-county.org,Daniel,Overbury-Howland,,Complete,,"CA-504 - Santa Rosa, Petaluma/Sonoma County CoC"
+Karissa.White@sonoma-county.org,Karissa,White,,Complete,,"CA-504 - Santa Rosa, Petaluma/Sonoma County CoC"
+Shelby.Ferguson@cchealth.org,Shelby,Ferguson,,,,CA-505 - Richmond/Contra Costa County CoC
+kimberly.thai@cchealth.org,Kimberly,Thai,,,,CA-505 - Richmond/Contra Costa County CoC
+rwilson@chsp.org,Roxanne,Wilson,,,,"CA-506 - Salinas/Monterey, San Benito Counties CoC"
+dferree@chsp.org,Derek,Ferree,,,,"CA-506 - Salinas/Monterey, San Benito Counties CoC"
+csager@marincounty.org,Carrie,Sager,,,,CA-507 - Marin County CoC
+rayne.marr@santacruzcounty.us,Rayne,Marr,,,,CA-508 - Watsonville/Santa Cruz City and County CoC
+bob@ctagroup.org,Bob,Russell,,,,CA-508 - Watsonville/Santa Cruz City and County CoC
+wilsonv@mendocinocounty.org,Veronica,Wilson,,,,CA-509 - Mendocino County CoC
+jnarayan@modestogov.com,Jessica,Narayan,,Complete,,"CA-510 - Turlock, Modesto/Stanislaus County CoC"
+FullLy@stancounty.com,Lynnell,Fuller,,Complete,,"CA-510 - Turlock, Modesto/Stanislaus County CoC"
+cbecerra@sjgov.org,Chris,Becerra,,Complete,,CA-511 - Stockton/San Joaquin County CoC
+swinston@cvlihc.org,Stefanie,Winston,,Complete,,CA-511 - Stockton/San Joaquin County CoC
+bmendelson@cvlihc.org,Bill,Mendelson,,Complete,,CA-511 - Stockton/San Joaquin County CoC
+jsilverberg@smcgov.org,Jessica,Silverberg,,,,CA-512 - Daly City/San Mateo County CoC
+ashirkhani@smcgov.org,Ali,Shirkhani,,,,CA-512 - Daly City/San Mateo County CoC
+beggers@smcgov.org,Brian,Eggers,,,,CA-512 - Daly City/San Mateo County CoC
+msmith@kthomelessalliance.org,Machael,Smith,,Complete,,"CA-513 - Visalia/Kings, Tulare Counties CoC"
+leticiah@kthomelessalliance.org,Leticia,Hinojosa,,Complete,,"CA-513 - Visalia/Kings, Tulare Counties CoC"
+nanettev@kingsunitedway.org,Nanette,Villarreal,,Complete,,"CA-513 - Visalia/Kings, Tulare Counties CoC"
+deley@fresnohousing.org,Doreen,Eley,,,,CA-514 - Fresno City and County/Madera County CoC
+maria.rodriguez@westcare.com,Maria,Rodriguez,,,,CA-514 - Fresno City and County/Madera County CoC
+president@hrcscoc.org,Leslie,Brewer,,,,"CA-515 - Roseville, Rocklin/Placer Counties CoC"
+lbrewer@pirs.org,Leslie,Brewer,,,,"CA-515 - Roseville, Rocklin/Placer Counties CoC"
+scompton@placer.ca.gov,Sue,Compton,,,,"CA-515 - Roseville, Rocklin/Placer Counties CoC"
+lburch@county.shasta.ca.us,Matthew,Pontes,,,,"CA-516 - Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC"
+hcap@co.shasta.ca.us,Jaclyn,Disney,,,,"CA-516 - Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC"
+molly.rattigan@countyofnapa.org,Molly,Rattigan,,,,CA-517 - Napa City and County CoC
+molly.Rattigan@countyofnapa.org,Molly,Rattigan,,,,CA-517 - Napa City and County CoC
+klawton@suisun.com,Kathy,Lawton-Caesar,,,,CA-518 - Vallejo/Solano County CoC
+bhbutterfield@buttecounty.net,Briana,Harvey-Butterfield,,,,"CA-519 - Chico, Paradise/Butte County CoC"
+erawlinson@buttecounty.net,Elisa,Rawlinson,,,,"CA-519 - Chico, Paradise/Butte County CoC"
+tammy.arias@countyofmerced.com,Tammy,Arias,,Complete,,CA-520 - Merced City and County CoC
+john.palm@countyofmerced.com,John,Palm,,Complete,,CA-520 - Merced City and County CoC
+rmounce@mercedcaa.org,Renee,Mounce,,Complete,,CA-520 - Merced City and County CoC
+ian.evans@yolocounty.org,Ian,Evans,,Complete,,"CA-521 - Davis, Woodland/Yolo County CoC"
+shewitt@co.humboldt.ca.us,Sally,Hewitt,,,,CA-522 - Humboldt County CoC
+alex@211humboldt.org,Alex,Tooker,,,,CA-522 - Humboldt County CoC
+rward@co.humboldt.ca.us,Robert,Ward Esq.,,,,CA-522 - Humboldt County CoC
+bwathen@countyofglenn.net,Bill,Wathen,,,,"CA-523 - Colusa, Glenn, Trinity Counties CoC"
+cclark@countyofglenn.net,Chimamara,Clark,,,,"CA-523 - Colusa, Glenn, Trinity Counties CoC"
+lmelgarejo@countyofglenn.net,Torri,Cardilino,,,,"CA-523 - Colusa, Glenn, Trinity Counties CoC"
+terry@yscunitedway.org,Terry,Raley,,,,CA-524 - Yuba City and County/Sutter County CoC
+jfloe@co.sutter.ca.us,John,Floe,,,,CA-524 - Yuba City and County/Sutter County CoC
+edokapplicant@edcgov.us,Don,Semon,,,,CA-525 - El Dorado County CoC
+daniel.delmonte@edcgov.us,Daniel,Del Monte,,,,CA-525 - El Dorado County CoC
+MattH@thecenternow.org,Matt,Huckabay,,,,CA-525 - El Dorado County CoC
+dcloward@atcaa.org,Denise,Cloward,,,,"CA-526 - Tuolumne, Amador, Calaveras, Mariposa Counties CoC"
+raymond.crazyheart.ladd@gmail.com,Ray,Ladd,,,,"CA-526 - Tuolumne, Amador, Calaveras, Mariposa Counties CoC"
+jerry@sierrahope.org,Jerry,Cadotte,,,,"CA-526 - Tuolumne, Amador, Calaveras, Mariposa Counties CoC"
+andrea@empowertehama.org,Andrea,Curry,,Complete,,CA-527 - Tehama County CoC
+gail@thelockes.us,Gail,Locke,,v,,CA-527 - Tehama County CoC
+scott.abbott@lakecountyca.gov,Scott,Abbott,,,,CA-529 - Lake County CoC
+tpierce@decipherhmis.com,Teddie,Pierce,,,,CA-529 - Lake County CoC
+lemerson@imaca.net,Larry,Emerson,,,,"CA-530 - Alpine, Inyo, Mono Counties CoC"
+kmansfield@imaca.net,Karen,Mansfield,,,,"CA-530 - Alpine, Inyo, Mono Counties CoC"
+president@hrcscoc.org,Leslie,Brewer,,,,CA-531 - Nevada County CoC
+lbrewer@pirs.org,Leslie,Brewer,,,,CA-531 - Nevada County CoC
+scompton@placer.ca.gov,Sue,Compton,,,,CA-531 - Nevada County CoC
+hmarston@lahsa.org,Heidi,Marston,,Complete,3 MOUs,CA-600 - Los Angeles City and County CoC
+homelessassistance@lahsa.org,Allyson,Crosby,,Complete,3 MOUs,CA-600 - Los Angeles City and County CoC
+mislam@lahsa.org,Mazharul,Islam,,Complete,3 MOUs,CA-600 - Los Angeles City and County CoC
+Tamera.kohler@rtfhsd.org,Tamera,Kohler,,Complete,3 MOUs,CA-601 - San Diego City and County CoC
+Kathryn.durant@rtfhsd.org,Kathryn,Durant,,Complete,3 MOUs,CA-601 - San Diego City and County CoC
+Jegnaw.Zeggeye@rtfhsd.org,Jegnaw,Zeggeye,,Complete,3 MOUs,CA-601 - San Diego City and County CoC
+pduncan@ochca.com,Paul,Duncan,,,,"CA-602 - Santa Ana, Anaheim/Orange County CoC"
+ochomelessservices@ochca.com,Oc Homeless,Services,,,,"CA-602 - Santa Ana, Anaheim/Orange County CoC"
+ederycke@211oc.org,Erin,Derycke,,,,"CA-602 - Santa Ana, Anaheim/Orange County CoC"
+dlockhart@co.santa-barbara.ca.us,Dinah,Lockhart,,,,CA-603 - Santa Maria/Santa Barbara County CoC
+mmoreno@co.santa-barbara.ca.us,Miriam,Moreno,,,,CA-603 - Santa Maria/Santa Barbara County CoC
+kmahajan@co.santa-barbara.ca.us,Kanika,Mahajan,,,,CA-603 - Santa Maria/Santa Barbara County CoC
+spelz@kernha.org,Stephen,Pelz,,,,CA-604 - Bakersfield/Kern County CoC
+rmoreno@capk.org,Rebecca,Moreno,,,,CA-604 - Bakersfield/Kern County CoC
+asidhu@kernbhrs.org,Arash,Sidhu,,,,CA-604 - Bakersfield/Kern County CoC
+paul.duncan@longbeach.gov,Paul,Duncan,,,,CA-606 - Long Beach CoC
+homelessservices@longbeach.gov,Max,Estrada,,,,CA-606 - Long Beach CoC
+jesse.navarette@longbeach.gov,Jesse,Navarette,,,,CA-606 - Long Beach CoC
+joreillyjones@cityofpasadena.net,Jennifer,O'Reilly-Jones,,,,CA-607 - Pasadena CoC
+Charmon@rivco.org,Carrie,Harmon,,,,CA-608 - Riverside City and County CoC
+Kng@rivco.org,Natalis,Ng,,,,CA-608 - Riverside City and County CoC
+GKuang@rivco.org,Gordon,Kuang,,,,CA-608 - Riverside City and County CoC
+betty.aguirre@dbh.sbcounty.gov,Betty,Aguirre,,,,CA-609 - San Bernardino City and County CoC
+Nicholas.Miller@hss.sbcounty.gov,Nick,Miller,,,,CA-609 - San Bernardino City and County CoC
+tara.carruth@ventura.org,Tara,Carruth,,Complete,,"CA-611 - Oxnard, San Buenaventura/Ventura County CoC"
+chris.russell@ventura.org,Chris,Russell,,Complete,,"CA-611 - Oxnard, San Buenaventura/Ventura County CoC"
+marissa.mach@ventura.org,Marissa,Mach,,Complete,,"CA-611 - Oxnard, San Buenaventura/Ventura County CoC"
+ar@isayan@glendaleca.gov,Arsine,Isayan,,,,CA-612 - Glendale CoC
+veronicaerodriguez@co.imperial.ca.us,Veronica,Rodriguez,,Complete,,CA-613 - Imperial County CoC
+paulallanas@co.imperial.ca.us,Paula,Llanas,,Complete,,CA-613 - Imperial County CoC
+gdsolis@co.slo.ca.us,George,Solis,,,,CA-614 - San Luis Obispo County CoC
+lweir@co.slo.ca.us,Laurel,Weir,,,,CA-614 - San Luis Obispo County CoC
+tpower@coloradocoalition.org,Tom,Power,,,,CO-500 - Colorado Balance of State CoC
+shayes@coloradocoalition.org,Shawn,Hayes,,,,CO-500 - Colorado Balance of State CoC
+dwetmore@coloradocoalition.org,Denny,Wetmore,,,,CO-500 - Colorado Balance of State CoC
+matt.meyer@mdhi.org,Matt,Meyer,,,,CO-503 - Metropolitan Denver CoC
+Margay.Witzdam@mdhi.org,General,Information,,,,CO-503 - Metropolitan Denver CoC
+kyla.moe@mdhi.org,Kyla,Moe,,,,CO-503 - Metropolitan Denver CoC
+jennifer.mariano@ppchp.org,Jennifer,Mariano,,Complete,,CO-504 - Colorado Springs/El Paso County CoC
+Kelly.Whitcombe@ppchp.org,Kelly,Whitcombe,,Complete,,CO-504 - Colorado Springs/El Paso County CoC
+amy.vargo@ppchp.org,Amy,Vargo,,Complete,,CO-504 - Colorado Springs/El Paso County CoC
+Evan.Caster@ppchp.org,Evan,Caster,,Complete,,CO-504 - Colorado Springs/El Paso County CoC
+pralston@cceh.org,Pamela,Ralston,Yes,,,"CT-503 - Bridgeport, Stamford, Norwalk/Fairfield County CoC"
+hjohnson@unitedwaycfc.org,Hilda,Johnson,,,,"CT-503 - Bridgeport, Stamford, Norwalk/Fairfield County CoC"
+alice.minervino@ct.gov,Alice,Minervino,,,,CT-505 - Connecticut Balance of State CoC
+rcho@cceh.org,Richard,Cho,,,,CT-505 - Connecticut Balance of State CoC
+tfredericksen@community-partnership.org,Sue,Marshall,,,,DC-500 - District of Columbia CoC
+mberry@community-partnership.org,Michael,Berry,,,,DC-500 - District of Columbia CoC
+tfredericksen@community-partnership.org,Tom,Fredericksen,,,,DC-500 - District of Columbia CoC
+tshowalter@housingalliancede.org,Tina,Showalter,,,,DE-500 - Delaware Statewide CoC
+intake@housingalliancede.org,Lisa,Forever,,,,DE-500 - Delaware Statewide CoC
+vpatel@housingalliancede.org,Vinay,Patel,,,,DE-500 - Delaware Statewide CoC
+Chris@suncoastpartnership.org,Chris,Johnson,,,,"FL-500 - Sarasota, Bradenton/Manatee, Sarasota Counties CoC"
+tara@suncoastpartnership.org,Tara,Booker,,,,"FL-500 - Sarasota, Bradenton/Manatee, Sarasota Counties CoC"
+brandon@suncoastpartnership.org,Brandon,Bellows,,,,"FL-500 - Sarasota, Bradenton/Manatee, Sarasota Counties CoC"
+TriplettA@THHI.org,Antoinette,Hayes-Triplett,,,,FL-501 - Tampa/Hillsborough County CoC
+WeikelL@THHI.org,Lesa,Weikel,,,,FL-501 - Tampa/Hillsborough County CoC
+WynnA@THHI.org,Ashley,Wynn,,,,FL-501 - Tampa/Hillsborough County CoC
+smyers@PinellasHLB.org,Susan,Myers,,Complete,,"FL-502 - Saint Petersburg, Clearwater, Largo/Pinellas County CoC"
+sfdusseault@PinellasHLB.org,Susan,Finlaw-Dusseault,,Complete,,"FL-502 - Saint Petersburg, Clearwater, Largo/Pinellas County CoC"
+CKazawitch@PinellasHLB.org,Cynthia,Kazawitch,,Complete,,"FL-502 - Saint Petersburg, Clearwater, Largo/Pinellas County CoC"
+lgwinn@polkhomeless.org,Laura Lee,Gwinn,,,,"FL-503 - Lakeland, Winterhaven/Polk County CoC"
+info@polkhomeless.org,Client,Support,,,,"FL-503 - Lakeland, Winterhaven/Polk County CoC"
+cecil@polkhomeless.org,Cecil,Herline,,,,"FL-503 - Lakeland, Winterhaven/Polk County CoC"
+jwhite@vfcch.org,Jeffrey,White,,Complete,,"FL-504 - Daytona Beach, Daytona/Volusia, Flagler Counties CoC"
+cepley@vfcch.org,Carl,Epley,,Complete,,"FL-504 - Daytona Beach, Daytona/Volusia, Flagler Counties CoC"
+cdodge@vfcch.org,Carolyn,Dodge,,Complete,,"FL-504 - Daytona Beach, Daytona/Volusia, Flagler Counties CoC"
+Sarah@hhalliance.org,Sarah,Yelverton,,,,"FL-505 - Fort Walton Beach/Okaloosa, Walton Counties CoC"
+Hmis@orgcode.com,David,Tweedie,,,,"FL-505 - Fort Walton Beach/Okaloosa, Walton Counties CoC"
+awander@bigbendcoc.org,Amanda,Wander,,Complete,,FL-506 - Tallahassee/Leon County CoC
+jcoleman@bigbendcoc.org,Johnna,Coleman,,Complete,,FL-506 - Tallahassee/Leon County CoC
+elayton@bigbendcoc.org,Eric,Layton,,Complete,,FL-506 - Tallahassee/Leon County CoC
+shp@hsncfl.org,Martha,"Are, Msw",,Complete,,"FL-507 - Orlando/Orange, Osceola, Seminole Counties CoC"
+brian.postlewait@hsncfl.org,Brian,Postlewait,,Complete,Thinks collegue completed,"FL-507 - Orlando/Orange, Osceola, Seminole Counties CoC"
+agustin.paz@hsncfl.org,Agustin,Paz,,Complete,,"FL-507 - Orlando/Orange, Osceola, Seminole Counties CoC"
+bchamberlain@unitedwayncfl.org,Brenda,Chamberlain,,,,"FL-508 - Gainesville/Alachua, Putnam Counties CoC"
+irhsclh@aol.com,Louise,Hubbard,,Complete,2 MOUs,"FL-509 - Fort Pierce/Saint Lucie, Indian River, Martin Counties CoC"
+office@tchelpspot.org,Resource,Center,,Complete,2 MOUs,"FL-509 - Fort Pierce/Saint Lucie, Indian River, Martin Counties CoC"
+penny@tchelpspot.org,Penny,Dietzen,,Complete,2 MOUs,"FL-509 - Fort Pierce/Saint Lucie, Indian River, Martin Counties CoC"
+dgilman@eshcnet.org,Dawn,Gilman,,,,"FL-510 - Jacksonville-Duval, Clay Counties CoC"
+johnj@openingdoorsnwfl.org,John,Johnson,,,,"FL-511 - Pensacola/Escambia, Santa Rosa Counties CoC"
+martikab@openingdoorsnwfl.org,Martika,Baker,,,,"FL-511 - Pensacola/Escambia, Santa Rosa Counties CoC"
+john.eaton@flaglerhospital.org,John,Eaton,,,,FL-512 - Saint Johns County CoC
+lindsey.rodea@flaglerhospital.org,Lindsey,Rodea,,,,FL-512 - Saint Johns County CoC
+Austin.burns@flaglerhealth.org,Austin,Burns,,,,FL-512 - Saint Johns County CoC
+miriam@brevardhomelesscoalition.org,Miriam,Moore,,,,"FL-513 - Palm Bay, Melbourne/Brevard County CoC"
+gklenke@211brevard.org,Guy,Klenke,,,,"FL-513 - Palm Bay, Melbourne/Brevard County CoC"
+mchapman@211brevard.org,Mike,Chapman,,,,"FL-513 - Palm Bay, Melbourne/Brevard County CoC"
+nicholas.bennett@marioncountyfl.org,Nicholas,Bennett,,,,FL-514 - Ocala/Marion County CoC
+director@doorwaysnwfl.org,Yvonne,Petrasovits,,,,"FL-515 - Panama City/Bay, Jackson Counties CoC"
+ce@doorwaysnwfl.org,Ciarra,Mason,,,,"FL-515 - Panama City/Bay, Jackson Counties CoC"
+director@doorways.org,Yvonne,Petrasovits,,,,"FL-515 - Panama City/Bay, Jackson Counties CoC"
+brenda.gray@heartlandhomeless.com,Brenda,Gray,,,,"FL-517 - Hendry, Hardee, Highlands Counties CoC"
+jen@unitedwsv.org,Jennifer,Anchors,,Complete,,"FL-518 - Columbia, Hamilton, Lafayette, Suwannee Counties CoC"
+jennifer@unitedwsv.org,Jennifer,Lee,,Complete,,"FL-518 - Columbia, Hamilton, Lafayette, Suwannee Counties CoC"
+thomas@pascohomelesscoalition.org,Thomas,O'Connor Bruno,,,,FL-519 - Pasco County CoC
+will@pascohomelesscoalition.org,Will,Newgard,,,,FL-519 - Pasco County CoC
+mfhc01@gmail.com,Barbara,Wheeler,,,,"FL-520 - Citrus, Hernando, Lake, Sumter Counties CoC"
+cagmayor2011@miamidade.gov,Carlos,Gimenez,,,,FL-600 - Miami-Dade County CoC
+claso@miamidade.gov,Carlos,Laso,,,,FL-600 - Miami-Dade County CoC
+Manuel.Sarria@miamidade.gov,Manuel,Sarria,,,,FL-600 - Miami-Dade County CoC
+bhenry@broward.org,Bertha,Henry,,,,FL-601 - Ft Lauderdale/Broward County CoC
+rmcguire@broward.org,Rebecca,Mcguire,,,,FL-601 - Ft Lauderdale/Broward County CoC
+rpmoore@broward.org,Ricardo,Moore,,,,FL-601 - Ft Lauderdale/Broward County CoC
+ahogan@gulfcoastpartnership.org,Angela,Hogan,,Complete,,FL-602 - Punta Gorda/Charlotte County CoC
+gaither.stephens@gulfcoastpartnership.org,Gaither,Stephens,,Complete,,FL-602 - Punta Gorda/Charlotte County CoC
+rmercado@leegov.com,Roger,Mercado,,Complete,,"FL-603 - Ft Myers, Cape Coral/Lee County CoC"
+leehomeless@gmail.com,Janet,Bartos,,Complete,,"FL-603 - Ft Myers, Cape Coral/Lee County CoC"
+epateidl@leegov.com,Eric,Pateidl,,Complete,,"FL-603 - Ft Myers, Cape Coral/Lee County CoC"
+mark.lenkner@monroehomelesscoc.org,Mark,Lenkner,,,,FL-604 - Monroe County CoC
+patrice.schwermer@ccadm.org,Patrice,Schwermer,,,,FL-604 - Monroe County CoC
+liz.acar@monroehomelesscoc.org,Liz,Acar,,,,FL-604 - Monroe County CoC
+executivedirector@collierhomelesscoalition.org,Christine,Welton,,,,FL-606 - Naples/Collier County CoC
+hmis@collierhomelesscoalition.org,Michael,Overway,,,,FL-606 - Naples/Collier County CoC
+cmarchman@partnersforhome.org,Cathryn,Marchman,,,,GA-500 - Atlanta CoC
+aswilliams@atlantaga.gov,Ashley,Williams,,,,GA-500 - Atlanta CoC
+jeannette.pollock@dca.ga.gov,Jeannette,Pollock,Yes,,,GA-500 - Atlanta CoC
+tonya.curry@dca.ga.gov,Tonya,Curry,,,,GA-501 - Georgia Balance of State CoC
+coc@dca.ga.gov,Michael,Thomas,,,,GA-501 - Georgia Balance of State CoC
+jeanette.pollock@dca.ga.gov,Jeanette,Pollock,,,,GA-501 - Georgia Balance of State CoC
+pamela.roshell@fultoncountyga.gov,Pamela,Roshell,,,,GA-502 - Fulton County CoC
+ann.isaac@fultoncountyga.gov,Ann,Isaac,,,,GA-502 - Fulton County CoC
+jeanette.pollock@dca.ga.gov,Jeanette,Pollock,,,,GA-502 - Fulton County CoC
+hayley.banerjee@accgov.com,Hayley,"Banerjee, Msw",,,,GA-503 - Athens-Clarke County CoC
+sara.shropshire@accgov.com,Sara,Shropshire,,,,GA-503 - Athens-Clarke County CoC
+jeanette.pollock@dca.ga.gov,Jeanette,Pollock,,,,GA-503 - Athens-Clarke County CoC
+vjohnson@augustaga.gov,Vicki,Johnson,,,,GA-504 - Augusta-Richmond County CoC
+PBrown@augustaga.gov,Peggy,Brown,,,,GA-504 - Augusta-Richmond County CoC
+DEvans2@augustaga.gov,Daniel,Evans,,,,GA-504 - Augusta-Richmond County CoC
+pat@unitedwayofthecv.org,Pat,Frey,,,,GA-505 - Columbus-Muscogee/Russell County CoC
+cpoole@unitedwayofthecv.org,Candace,Poole,,,,GA-505 - Columbus-Muscogee/Russell County CoC
+carolynbridges@thecfr.org,Carolyn,Bridges,,Opt Out,Did not receive voucher,GA-506 - Marietta/Cobb County CoC
+libby.tyre@dca.ga.gov,Shawn,Williams,,,,GA-506 - Marietta/Cobb County CoC
+ckelley@homelessauthority.org,Cindy,Kelley,,,,GA-507 - Savannah/Chatham County CoC
+antoinette@homelessauthority.org,Antoinette,Joiner,,,,GA-507 - Savannah/Chatham County CoC
+adminasst@homelessauthority.org,Luella,Clark,,,,GA-507 - Savannah/Chatham County CoC
+amitchell@dekalbcountyga.gov,Allen,Mitchell,,,,GA-508 - DeKalb County CoC
+adpope@dekalbcountyga.gov,Ann,Pope,,,,GA-508 - DeKalb County CoC
+jeanette.pollock@dca.ga.gov,Jeanette,Pollock,,,,GA-508 - DeKalb County CoC
+katherine@ghura.org,Katherine,Taitano,,Complete,,GU-500 - Guam CoC
+amsay@ghura.org,Amor,Say,,Complete,,GU-500 - Guam CoC
+juan.trinidad@usw.salvationarmy.org,Juanito,Trinidad,,Complete,,GU-500 - Guam CoC
+alison@kamanaonahelu.org,Alison,Hinazumi,,,,HI-500 - Hawaii Balance of State CoC
+carlos@kamanaonahelu.org,Carlos,Peraro,,,,HI-500 - Hawaii Balance of State CoC
+laurat@partnersincareoahu.org,Laura,Thielen,,Complete,,HI-501 - Honolulu City and County CoC
+morgane@partnersincareoahu.org,Morgan,Esarey,,Complete,,HI-501 - Honolulu City and County CoC
+alexd@partnersincareoahu.org,Alex,Dale,,Complete,,HI-501 - Honolulu City and County CoC
+akeairns@sioux-city.org,Amy,Keairns,,,,"IA-500 - Sioux City/Dakota, Woodbury Counties CoC"
+susan.mcguire@centerforsiouxland.org,Susan,Mcguire,,,,"IA-500 - Sioux City/Dakota, Woodbury Counties CoC"
+david.eberbach@icalliances.org,David,Eberbach,,,,"IA-500 - Sioux City/Dakota, Woodbury Counties CoC"
+courtney.guntly@icalliances.org,Courtney,Guntly,,,,IA-501 - Iowa Balance of State CoC
+coordinatedentry2@gmail.com,J'Nae,Peterman,,,,IA-501 - Iowa Balance of State CoC
+gary.wickering@icalliances.org,Gary,Wickering,,,,IA-501 - Iowa Balance of State CoC
+CCGathright@dmgov.org,Caroline,Gathright,,,,IA-502 - Des Moines/Polk County CoC
+julie.eberbach@icalliances.org,Julie,Eberbach,,,,IA-502 - Des Moines/Polk County CoC
+aguiles@cityofboise.org,Anamarie,Guiles,,Complete,,ID-500 - Boise/Ada County CoC
+mbrewer@cityofboise.org,Maureen,Brewer,,Complete,,ID-500 - Boise/Ada County CoC
+alissa.parrish@icaalliances.org,Alissa,Parrish,Yes,Complete,,ID-500 - Boise/Ada County CoC
+bradye@ihfa.org,Brady,Ellis,,,,ID-501 - Idaho Balance of State CoC
+lisast@ihfa.org,Lisa,Steele,,,,ID-501 - Idaho Balance of State CoC
+hmis@ihfa.org,Jennifer,Otto,,,,ID-501 - Idaho Balance of State CoC
+hdmach@co.mchenry.il.us,Hans,Mach,,,,IL-500 - McHenry County CoC
+crisisprogram@centegra.com,Mchenry County,Crisis Line,Yes,,,IL-500 - McHenry County CoC
+rheeman-moore@pioneercenter.org,Rebecca,Heeman-Moore,,,,IL-500 - McHenry County CoC
+jennifer.jaeger@rockfordil.gov,Jennifer,Jaeger,,Complete,,"IL-501 - Rockford/DeKalb, Winnebago, Boone Counties CoC"
+angie.walker@rockfordil.gov,Angie,Walker,,Complete,,"IL-501 - Rockford/DeKalb, Winnebago, Boone Counties CoC"
+david.eberbach@icalliances.org,David,Eberbach,Yes,Complete,,"IL-501 - Rockford/DeKalb, Winnebago, Boone Counties CoC"
+boconnell@lakecountyil.gov,Brenda,O'Connell,,Complete,,"IL-502 - Waukegan, North Chicago/Lake County CoC"
+rwoodard@ccrpc.org,Rebecca,Woodard,,,,"IL-503 - Champaign, Urbana, Rantoul/Champaign County CoC"
+lbenson@ccrpc.org,Lisa,Benson,,,,"IL-503 - Champaign, Urbana, Rantoul/Champaign County CoC"
+apesping@co.madison.il.us,Andrew,Esping,,,,IL-504 - Madison County CoC
+joconnor@wcccc.net,Joe,O'Connor,,Complete,,"IL-506 - Joliet, Bolingbrook/Will County CoC"
+kate.green@local.unitedway.org,Kate,Green,,,,"IL-507 - Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC"
+rstubblefield@co.st-clair.il.us,Rick,Stubblefield,,,,"IL-508 - East Saint Louis, Belleville/Saint Clair County CoC"
+Christina.Anderson@co.st-clair.il.us,Christina,Anderson,,,,"IL-508 - East Saint Louis, Belleville/Saint Clair County CoC"
+nbahena@allchicago.org,Nicole,Bahena,,,,IL-510 - Chicago CoC
+eperez@allchicago.org,Elizabeth,Perez,,,,IL-510 - Chicago CoC
+bhorwitz@allchicago.org,Beth,Horwitz,,,,IL-510 - Chicago CoC
+jennifer@suburbancook.org,Jennifer,Hill,,Complete,,IL-511 - Cook County CoC
+peggy@suburbancook.org,Peggy,Troyer,,Complete,,IL-511 - Cook County CoC
+ezdansky@pathcrisis.org,Erik,Zdansky,,,,IL-512 - Bloomington/Central Illinois CoC
+dhoover@pathcrisis.org,Denavious,Hoover,,,,IL-512 - Bloomington/Central Illinois CoC
+erin@helpinghandsofspringfield.org,Erin,Eddy,Yes,,,IL-513 - Springfield/Sangamon County CoC
+amy@mercycommunities.org,Amy,Voils,,,,IL-513 - Springfield/Sangamon County CoC
+julie.burdick@dupageco.org,Julie,Burdick,,Complete,combined with mary.keating@dupageco.org,IL-514 - DuPage County CoC
+jessicadpauley@outlook.com,Jessica,Pauley,,Complete,,IL-515 - South Central Illinois CoC
+sandyd@erbainc.org,Sandy,Deters,,Complete,,IL-515 - South Central Illinois CoC
+twilcox@doveinc.org,Tamara,Wilcox,,,,IL-516 - Decatur/Macon County CoC
+dswitzer@doveinc.org,Darsonya,Switzer,,,,IL-516 - Decatur/Macon County CoC
+agarner@doveinc.org,Ashley,Garner,,,,IL-516 - Decatur/Macon County CoC
+bergerscott@co.kane.il.us,Scott,Berger,,,,"IL-517 - Aurora, Elgin/Kane County CoC"
+wakilehnisreen@co.kane.il.us,Nisreen,Wakileh,,,,"IL-517 - Aurora, Elgin/Kane County CoC"
+rlund@projectnow.org,Ron,Lund,,,,"IL-518 - Rock Island, Moline/Northwestern Illinois CoC"
+mmoore@projectnow.org,Marianne,Moore,,,,"IL-518 - Rock Island, Moline/Northwestern Illinois CoC"
+mmejia@projectnow.org,Mona,Mejia,,,,"IL-518 - Rock Island, Moline/Northwestern Illinois CoC"
+amandadavis@ywcaquincy.org,Amanda,Davis,,,,IL-519 - West Central Illinois CoC
+AmandaDavis@ywcaquincy.org,Amanda,Davis,,,,IL-519 - West Central Illinois CoC
+lbookwalter@swandvhl.org,Linda,Bookwalter,Yes,,,IL-520 - Southern Illinois CoC
+elhilton@ihcda.in.gov,Elspeth,Hilton,Yes,,,IN-502 - Indiana Balance of State CoC
+gpeters@ihcda.in.gov,Grant,Peters,,,,IN-502 - Indiana Balance of State CoC
+jennifer.fults@indy.gov,Jennifer,Fults,,,,IN-503 - Indianapolis CoC
+courtney.purnell@indy.gov,Courtney,Purnell,,,,IN-503 - Indianapolis CoC
+dmelin@chipindy.org,Daniel,Melin,,,,IN-503 - Indianapolis CoC
+boaks@unitedwayplains.org,Beth,Oaks,,,,KS-502 - Wichita/Sedgwick County CoC
+lsanders@unitedwayplains.org,Luella,"Sanders, Ph.D",,,,KS-502 - Wichita/Sedgwick County CoC
+cwright@topeka.org,Corrie,Wright,,,,KS-503 - Topeka/Shawnee County CoC
+rvretana@topeka.org,Rachelle,Vega-Retana,,,,KS-503 - Topeka/Shawnee County CoC
+maacadmin@crcnet.org,G.R.,Mclaughlin,,,,KS-503 - Topeka/Shawnee County CoC
+valoriec@ucsjoco.org,Valorie,Carson,,,Asked for extenion past Nov 5,"KS-505 - Overland Park, Shawnee/Johnson County CoC"
+mnagel@marc.org,Marlene,Nagel,,,,"KS-505 - Overland Park, Shawnee/Johnson County CoC"
+kwatson@kshomeless.com,Kate,Watson,,,,KS-507 - Kansas Balance of State CoC
+jchiselom@kshousing.org,James,Chiselom,,,,KS-507 - Kansas Balance of State CoC
+cstauffer@kyhousing.org,Curtis,Stauffer,,Complete,,KY-500 - Kentucky Balance of State CoC
+lcallis@kyhousing.org,Laticia,Callis,,Complete,,KY-500 - Kentucky Balance of State CoC
+mfschafer@louhomeless.org,Mary Frances,Schafer,,,,KY-501 - Louisville-Jefferson County CoC
+mbailey@louhomeless.org,Marsha,Bailey,,,,KY-501 - Louisville-Jefferson County CoC
+wking@louhomeless.org,Will,King,,,,KY-501 - Louisville-Jefferson County CoC
+pruddick@lexingtonky.gov,Polly,Ruddick,,,,KY-502 - Lexington-Fayette County CoC
+jherron@lexingtonky.gov,Jeff,Herron,,,,KY-502 - Lexington-Fayette County CoC
+arch@archacadiana.org,Leigh,Rachal,,Complete,,LA-500 - Lafayette/Acadiana Regional CoC
+azegura@catholicservice.org,Andrew,Zegura,,Complete,,LA-500 - Lafayette/Acadiana Regional CoC
+christa@nwlahope.org,Christa,Pazzaglia,,Complete,,LA-502 - Shreveport/Bossier/Northwest Louisiana CoC
+rparker@nwlahope.org,Ryan,Parker,Yes,Complete,,LA-502 - Shreveport/Bossier/Northwest Louisiana CoC
+tstamps@nwlahope.org,Tosha,Stamps,Yes,Complete,,LA-502 - Shreveport/Bossier/Northwest Louisiana CoC
+mkegel@unitygno.org,Martha,Kegel,,,,LA-503 - New Orleans/Jefferson Parish CoC
+vcoffin@unitygno.org,Valerie,Coffin,,,,LA-503 - New Orleans/Jefferson Parish CoC
+charris@vialink.org,Clifton,Harris,,,,LA-503 - New Orleans/Jefferson Parish CoC
+sarah@sarahbjohnson.com,Sarah,Johnson,,Complete,,LA-505 - Monroe/Northeast Louisiana CoC
+khodges@wellspringalliance.org,Kristie,Hodges,,Complete,,LA-505 - Monroe/Northeast Louisiana CoC
+kwhetstone@homelessinbr.org,Kristi,Whetstone,,Complete,,LA-505 - Monroe/Northeast Louisiana CoC
+amills@northlakehomeless.org,Amanda,Mills,,,,LA-506 - Slidell/Southeast Louisiana CoC
+JosephB@cenlahomeless.org,Joseph,Buzzetta,,,,LA-507 - Alexandria/Central Louisiana CoC
+KyleM@CenLaHomeless.org,Kyle,Mcgee,,,,LA-507 - Alexandria/Central Louisiana CoC
+SteveC@cenlahomeless.org,Steve,Caballero,,,,LA-507 - Alexandria/Central Louisiana CoC
+glevine@lhc.la.gov,Gordon,Levine,,Complete,,LA-509 - Louisiana Balance of State CoC
+cpatterson@lhc.la.gov,Carrie,Patterson,,Complete,,LA-509 - Louisiana Balance of State CoC
+cboykin@lhc.la.gov,Clay,Boykin,,Complete,,LA-509 - Louisiana Balance of State CoC
+sheila.dillon@boston.gov,Sheila,Dillon,,,,MA-500 - Boston CoC
+katie.cahill-holloway@boston.gov,Katie,Cahill-Holloway,,,,MA-500 - Boston CoC
+jennifer.flynn@boston.gov,Jennifer,Flynn,,,,MA-500 - Boston CoC
+olyons@lhand.org,Harry,Maccabe,,Complete,,MA-502 - Lynn CoC
+hmaccabe@lhand.org,Harry,Maccabe,,Complete,,MA-502 - Lynn CoC
+olyons@lhand.org,Olivia,Lyons,,Complete,,MA-502 - Lynn CoC
+balbert@barnstablecounty.org,Elizabeth,"Albert, Msw",,,,MA-503 - Cape Cod Islands CoC
+daniel.gray@barnstablecounty.org,Daniel,Gray,,,,MA-503 - Cape Cod Islands CoC
+martha.taylor@barnstablecounty.org,Martha,Taylor,,,,MA-503 - Cape Cod Islands CoC
+gmccafferty@springfieldcityhall.com,Geraldine,Mccafferty,,,,MA-504 - Springfield/Hampden County CoC
+jarce@springfieldcityhall.com,Jesus,Arce,,,,MA-504 - Springfield/Hampden County CoC
+dmerkman@springfieldcityhall.com,Deborah,Merkman,,,,MA-504 - Springfield/Hampden County CoC
+patrick.sullivan@newbedford-ma.gov,Patrick,Sullivan,,,,MA-505 - New Bedford CoC
+lbradley@cmhaonline.org,Leah,Bradley,,Complete,,MA-506 - Worcester City and County CoC
+ehaxhiaj@cmhaonline.org,Etel,Haxhiaj,,Complete,,MA-506 - Worcester City and County CoC
+pmahoney@cmhaonline.org,Patrick,Mahoney,,Complete,,MA-506 - Worcester City and County CoC
+scummings@communityaction.us,Sara,Cummings,,Complete,,"MA-507 - Pittsfield/Berkshire, Franklin, Hampshire Counties CoC"
+EDonoghue@lowellma.gov,Eileen,Donoghue,,,,MA-508 - Lowell CoC
+csamaras@lowellma.gov,Chris,Samaras,,,,MA-508 - Lowell CoC
+jalger@cambridgema.gov,Janice,Alger,,,,MA-509 - Cambridge CoC
+ebollinger@cambridgema.gov,Erin,Bollinger,,,,MA-509 - Cambridge CoC
+mcolangelo@cambridgema.gov,Marianne,Colangelo,,,,MA-509 - Cambridge CoC
+kevin.hurley@peabody-ma.gov,Kevin,Hurley,,,,"MA-510 - Gloucester, Haverhill, Salem/Essex County CoC"
+sglennon@quincyma.gov,Sean,Glennon,,,,"MA-511 - Quincy, Brockton, Weymouth, Plymouth City and County CoC"
+MDion@fallriverma.org,Michael,Dion,,,,MA-515 - Fall River CoC
+mdcamara@fallriverma.org,Mary,Camara,,,,MA-515 - Fall River CoC
+gordon.calkins@mass.gov,Gordon,Calkins,,,,MA-516 - Massachusetts Balance of State CoC
+Joanna.Bowen@mass.gov,Joanna,Bowen,,,,MA-516 - Massachusetts Balance of State CoC
+Kelly.Schlabach@mass.gov,Kelly,Schlabach,,,,MA-516 - Massachusetts Balance of State CoC
+Charles.Bokor@mass.gov,Charley,Bokor,,,,MA-516 - Massachusetts Balance of State CoC
+kdonato@somervillema.gov,Kelly,Donato,,Opt Out,Merged into the MA balance of state,MA-517 - Somerville CoC
+bshort@shcinc.org,Brielle,Short,,Opt Out,Merged into the MA balance of state,MA-517 - Somerville CoC
+cfoley@shcinc.org,Connor,Foley,Yes,Opt Out,Merged into the MA balance of state,MA-517 - Somerville CoC
+ebruder-moore@comcounseling.org,Ellen,Bruder-Moore Abramowitz,,Complete,,"MA-519 - Attleboro, Taunton/Bristol County CoC"
+dnedved@alleganygov.org,David,Nedved,,Complete,,MD-500 - Cumberland/Allegany County CoC
+nclark@alleganyhrdc.org,Nicole,Clark,,Complete,,MD-500 - Cumberland/Allegany County CoC
+robin@cumberlandymca.org,Robin,Shaffer-Fazenbaker,,Complete,,MD-500 - Cumberland/Allegany County CoC
+jerrianne.anthony@baltimorecity.gov,Jerrianne,Anthony,,,,MD-501 - Baltimore CoC
+lasandraE.jackson@baltimorecity.gov,Lasandra,Jackson,,,,MD-501 - Baltimore CoC
+Jessi.Stevens@baltimorecity.gov,Jessi,Stevens,,,,MD-501 - Baltimore CoC
+pj@harfordcaa.org,Pamela,Craig,,Complete,,MD-502 - Harford County CoC
+bwainwright@harfordcaa.org,Brian,Wainwright,,Complete,,MD-502 - Harford County CoC
+dchona@harfordcaa.org,Deven,Chona,,Complete,,MD-502 - Harford County CoC
+mhartzell@aacounty.org,Mark,Hartzell,Yes,,,MD-503 - Annapolis/Anne Arundel County CoC
+jbieler@dhr.state.md.us,Justin,Bieler,,,,MD-503 - Annapolis/Anne Arundel County CoC
+jrscott@howardcountymd.gov,Calvin,Ball,,,,MD-504 - Howard County CoC
+jcorcoran@howardcountymd.gov,Jennifer,"Corcoran, Lcsw",,,,MD-504 - Howard County CoC
+kbenjamin@howardcountymd.gov,Keisha,Benjamin,,,,MD-504 - Howard County CoC
+kejones@baltimorecountymd.gov,Keenan,Jones,,Complete,,MD-505 - Baltimore County CoC
+jburns@baltimorecountymd.gov,Jason,Burns,,Complete,,MD-505 - Baltimore County CoC
+ccgrants@carrollcountymd.gov,Stephen,Wantz,,,,MD-506 - Carroll County CoC
+syard@hspinc.org,Scott,Yard,,,,MD-506 - Carroll County CoC
+csteckel@carrollcountymd.gov,Celene,Steckel,,,,MD-506 - Carroll County CoC
+gwen.parrack@maryland.gov,Gwen,"Parrack, Msw",,,,MD-507 - Cecil County CoC
+jason@hmisadmin.com,Jason,Burns,,,,MD-507 - Cecil County CoC
+hslancaster@threeoakscenter.org,H.S. Lanny,Lancaster,,,,"MD-508 - Charles, Calvert, Saint Mary's Counties CoC"
+sara@md.metrocast.net,Sara,Martin,Yes,,,"MD-508 - Charles, Calvert, Saint Mary's Counties CoC"
+jbeasley@msmhs.org,Jeanine,Beasley,Yes,,,"MD-508 - Charles, Calvert, Saint Mary's Counties CoC"
+mspurrier@cityoffrederick.com,Michael,Spurrier,,,,MD-509 - Frederick City and County CoC
+bpetersen@cityoffrederick.com,Brad,Petersen,,,,MD-509 - Frederick City and County CoC
+cdisimone@garrettcac.org,Carrie,Disimone,,,,MD-510 - Garrett County CoC
+mhelbig@garrettcac.org,Melody,Helbig,,,,MD-510 - Garrett County CoC
+asisler@garrettcac.org,April,Sisler,,,,MD-510 - Garrett County CoC
+jbeasley@midshorebehavioralhealth.org,Jeanine,Beasley,,,,MD-511 - Mid-Shore Regional CoC
+msewell@wccac.org,Mark,Sewell,,Complete,,MD-512 - Hagerstown/Washington County CoC
+drose@wccac.org,Donna,Rose,,Complete,,MD-512 - Hagerstown/Washington County CoC
+jason@hmisadmin.com,Jason,Burns,,Complete,,MD-512 - Hagerstown/Washington County CoC
+shannon.frey@maryland.gov,Shannon,Frey,,Complete,,"MD-513 - Wicomico, Somerset, Worcester Counties CoC"
+gretarolland@aol.com,Greta,Rolland,,Complete,,"MD-513 - Wicomico, Somerset, Worcester Counties CoC"
+renee.pope@maryland.gov,Renee,Pope,,Complete,,MD-600 - Prince George's County CoC
+timj@ccsimd.org,Timothy,Jansen,,Complete,,MD-600 - Prince George's County CoC
+robin.gray@maryland.gov,Robin,Gray,,Complete,,MD-600 - Prince George's County CoC
+amanda.harris@montgomerycountymd.gov,Amanda,Harris,,Complete,,MD-601 - Montgomery County CoC
+kim.ball@montgomerycountymd.gov,Kim,Ball,,Complete,,MD-601 - Montgomery County CoC
+stibbitts@mainehousing.org,Scott,Tibbitts,,Complete,,ME-500 - Maine Statewide CoC
+lpatenaude@mainehousing.org,Louise,Patenaude,,Complete,,ME-500 - Maine Statewide CoC
+mwade@mainehousing.org,Mary,Wade,,Complete,,ME-500 - Maine Statewide CoC
+coordinator@miboscoc.com,Jesica,Mays,,,,MI-500 - Michigan Balance of State CoC
+gleslie@mihomeless.org,Gerry,Leslie,,,,MI-500 - Michigan Balance of State CoC
+tasha@handetroit.org,Tasha,Gray,,,,MI-501 - Detroit CoC
+pbeasley@swsol.org,Paige,Beasley,,,NEW EMAIL,MI-501 - Detroit CoC
+selwin@handetroit.org,Selwin,O'Neal,,,,MI-501 - Detroit CoC
+aramon@waynemetro.org,Alicia,Ramon,Yes,Complete,,"MI-502 - Dearborn, Dearborn Heights, Westland/Wayne County CoC"
+ccarrillo@waynemetro.org,Charlotte,Carrillo,,Complete,,"MI-502 - Dearborn, Dearborn Heights, Westland/Wayne County CoC"
+cchapa@waynemetro.org,Christine,Chapa,Yes,Complete,,"MI-502 - Dearborn, Dearborn Heights, Westland/Wayne County CoC"
+jtmerchant@macombhomelesscoalition.com,Jacquelyn,Theriot Merchant,,,,"MI-503 - Saint Clair Shores, Warren/Macomb County CoC"
+rwalters@macombhomelesscoalition.com,Roy,Walters,,,,"MI-503 - Saint Clair Shores, Warren/Macomb County CoC"
+lmccall-alliance@oaklandhomeless.org,Leah,Mccall,,,,"MI-504 - Pontiac, Royal Oak/Oakland County CoC"
+mmartinez@chninc.net,Mellena,Martinez,,,,"MI-504 - Pontiac, Royal Oak/Oakland County CoC"
+awhite-alliance@oaklandhomeless.org,Audrey,White,,,,"MI-504 - Pontiac, Royal Oak/Oakland County CoC"
+bglowiak@metroflint.org,Brian,Glowiak Esq.,,Complete,,MI-505 - Flint/Genesee County CoC
+tjackson@metroflint.org,Tracey,Jackson,,Complete,,MI-505 - Flint/Genesee County CoC
+vwilley@metroflint.org,Vonda,Willey,,Complete,,MI-505 - Flint/Genesee County CoC
+pleblanc@hwmuw.org,Paul,Leblanc,,,,"MI-506 - Grand Rapids, Wyoming/Kent County CoC"
+Pilar_Dunning@usc.salvationarmy.org,Pilar,Dunning,,,,"MI-506 - Grand Rapids, Wyoming/Kent County CoC"
+ssalaam@hwmuw.org,Sierra,Salaam,Yes,,,"MI-506 - Grand Rapids, Wyoming/Kent County CoC"
+sjacobs@uwbckr.org,Sara,Jacobs,,,,"MI-507 - Portage, Kalamazoo City and County CoC"
+jen@housingresourcesinc.org,Jennifer,Welles,Yes,,,"MI-507 - Portage, Kalamazoo City and County CoC"
+jbeach@housingresourcesinc.org,Jacob,Beach,,,,"MI-507 - Portage, Kalamazoo City and County CoC"
+Kim.coleman@lansingmi.gov,Kimberly,Coleman,,,,"MI-508 - Lansing, East Lansing/Ingham County CoC"
+sdade@hccsnet.org,Sharon,Dade,,,,"MI-508 - Lansing, East Lansing/Ingham County CoC"
+matt.stevenson@lansingmi.gov,Matt,Stevenson,,,,"MI-508 - Lansing, East Lansing/Ingham County CoC"
+gillottitm@washtenaw.org,Teresa,Gillotti,,,,MI-509 - Washtenaw County CoC
+williamsm@washtenaw.org,Morghan,Williams,,,,MI-509 - Washtenaw County CoC
+baloghc@ewashtenaw.org,Crystal,Balogh,,,,MI-509 - Washtenaw County CoC
+jreinert@unitedwaysaginaw.org,Jeremy,Reinert,,,,MI-510 - Saginaw City and County CoC
+esalerno@h2lenawee.org,Elizabeth,Salerno,,,,MI-511 - Lenawee County CoC
+sdesloover@h2lenawee.org,Shannon,Desloover,,,,MI-511 - Lenawee County CoC
+ashley@endhomelessnessnmi.org,Ashley,Halladay-Schmandt,,Complete,,"MI-512 - Grand Traverse, Antrim, Leelanau Counties CoC"
+homeless@nmcaa.net,Ashley,Halladay-Schmandt,,Complete,,"MI-512 - Grand Traverse, Antrim, Leelanau Counties CoC"
+jayce@goodwillnmi.org,Jayce,Ashwill,Yes,Complete,,"MI-512 - Grand Traverse, Antrim, Leelanau Counties CoC"
+gjohnson@communityactionam.org,Greg,Johnson,,,,"MI-513 - Marquette, Alger Counties CoC"
+homelesscoalition@summitpointe.org,Nicole,Dupont,,Complete,,MI-514 - Battle Creek/Calhoun County CoC
+jls@summitpointe.org,Jamie,Schook,,Complete,,MI-514 - Battle Creek/Calhoun County CoC
+nad@summitpointe.org,Nicole,Dupont,,Complete,,MI-514 - Battle Creek/Calhoun County CoC
+skasprzak@monroecountyop.org,Stephanie,Kasprzak,,Complete,,MI-515 - Monroe City and County CoC
+mswartz@monroecountyop.org,Michelle,Swartz,,Complete,,MI-515 - Monroe City and County CoC
+Judith.Kell@mercyhealth.com,Judith,Kell,,Complete,,"MI-516 - Norton Shores, Muskegon City and County CoC"
+hmis@muskegoncoc.org,Miranda,Broadbent,,Complete,,"MI-516 - Norton Shores, Muskegon City and County CoC"
+tberry@caajlh.org,Toby,Berry,,,,MI-517 - Jackson City and County CoC
+lreaume@caajlh.org,Laura,Reaume,,,,MI-517 - Jackson City and County CoC
+arennie@cmhliv.org,Anne,Rennie,,,,MI-518 - Livingston County CoC
+scottr1@olhsa.org,Scott,Richardson,,,,MI-518 - Livingston County CoC
+chinaa@olhsa.org,China,Aquino,,,,MI-518 - Livingston County CoC
+lakeshorehousingalliance@gmail.com,Lyn,Raymond,,,,MI-519 - Holland/Ottawa County CoC
+ldriscoll@goodsamministries.com,Laura,Driscoll,,,,MI-519 - Holland/Ottawa County CoC
+ddunn@hs-mm.org,Denise,Dunn,,,,MI-523 - Eaton County CoC
+khemgesberg@mihomeless.org,Kaity,Hemgesberg,,,,MI-523 - Eaton County CoC
+laura.derosier@hennepin.us,Laura,Derosier,,Complete,,MN-500 - Minneapolis/Hennepin County CoC
+david.hewitt@hennepin.us,David,Hewitt,,Complete,,MN-500 - Minneapolis/Hennepin County CoC
+david.eberbach@icalliances.org,David,Eberbach,,Complete,,MN-500 - Minneapolis/Hennepin County CoC
+loni.aadalen@co.ramsey.mn.us,Loni,Aadalen,,,,MN-501 - Saint Paul/Ramsey County CoC
+david.eberbach@icalliances.org,David,Eberbach,,,,MN-501 - Saint Paul/Ramsey County CoC
+jlarson@threeriverscap.org,Jennifer,Larson,,,,MN-502 - Rochester/Southeast Minnesota CoC
+kcross@threeriverscap.org,Katherine,Cross,,,,MN-502 - Rochester/Southeast Minnesota CoC
+David.Eberbach@icalliances.org,David,Eberbach,,,,MN-502 - Rochester/Southeast Minnesota CoC
+paul@hearthconnection.org,Paul,Carlson,,Complete,2 MOUs,"MN-503 - Dakota, Anoka, Washington, Scott, Carver Counties CoC"
+abby@mesh-mn.org,Abby,Guilford,,Complete,2 MOUs,"MN-503 - Dakota, Anoka, Washington, Scott, Carver Counties CoC"
+david.eberbach@icalliances.org,David,Eberbach,,Complete,2 MOUs,"MN-503 - Dakota, Anoka, Washington, Scott, Carver Counties CoC"
+kelby@hearthconnection.org,Kelby,Grovender,Yes,,,MN-504 - Northeast Minnesota CoC
+pattybeechconsulting@gmail.com,Patty,Beech,,,,MN-504 - Northeast Minnesota CoC
+demetri.vincze@icalliances.org,Demetri,Vincze,,,,MN-504 - Northeast Minnesota CoC
+tpoland@cmhp.net,Tim,Poland,,Complete,,MN-505 - Saint Cloud/Central Minnesota CoC
+jvasek@cmhp.net,Jay,Vasek,,Complete,,MN-505 - Saint Cloud/Central Minnesota CoC
+david.eberbach@icalliances.org,David,Elerbach,,Complete,,MN-505 - Saint Cloud/Central Minnesota CoC
+coryb@nwmf.org,Cory,Boushee,,,,MN-506 - Northwest Minnesota CoC
+delores@tvoc.org,Lori,Anderson,,,,MN-506 - Northwest Minnesota CoC
+demetri.vincze@icalliances.org,Demetri,Vincze,,,,MN-506 - Northwest Minnesota CoC
+h2hcoordinator@gmail.com,Carla,Solem,,,,MN-508 - Moorhead/West Central Minnesota CoC
+beckij@lakesandprairies.net,Rebecca,Johnson,,,,MN-508 - Moorhead/West Central Minnesota CoC
+david.eberbach@icalliances.org,David,Eberbach,,,,MN-508 - Moorhead/West Central Minnesota CoC
+bishopm@stlouiscountymn.gov,Mary,Bishop,,,,MN-509 - Duluth/Saint Louis County CoC
+David.Eberbach@icaalliances.org,David,Eberbach,,,,MN-509 - Duluth/Saint Louis County CoC
+justinv@swmhp.org,Justin,Vorbach,,Complete,,MN-511 - Southwest Minnesota CoC
+david.eberbach@icalliances.org,David,Eberbach,,Complete,,MN-511 - Southwest Minnesota CoC
+sandy.wilson@icalliances.org,Sandy,Wilson,,,,MO-500 - Saint Louis County CoC
+bickford@stlouis-mo.gov,Amy,Bickford,,,,MO-501 - Saint Louis City CoC
+sandy.wilson@icalliances.org,Sandy,Wilson,,,,MO-501 - Saint Louis City CoC
+dkastigar@communitycouncilstc.org,Dottie,"Kastigar, Lcsw",,,,"MO-503 - Saint Charles City and County, Lincoln, Warren Counties CoC"
+cgoebel@communitycouncilstc.org,Cindy,Goebel,,,,"MO-503 - Saint Charles City and County, Lincoln, Warren Counties CoC"
+rjones@springfieldmo.gov,Bob,Jones,,Complete,,"MO-600 - Springfield/Greene, Christian, Webster Counties CoC"
+pwallace@cpozarks.org,Pepi,Wallace,,Complete,,"MO-600 - Springfield/Greene, Christian, Webster Counties CoC"
+sandy.wilson@icalliances.org,Sandy,Wilson,,Complete,,"MO-600 - Springfield/Greene, Christian, Webster Counties CoC"
+dmarkman@escswa.org,Debbie,Mark,,Opt Out,Did not receive voucher,"MO-602 - Joplin/Jasper, Newton Counties CoC"
+twalker@escswa.org,Tammy,Walker,,Opt Out,Did not receive voucher,"MO-602 - Joplin/Jasper, Newton Counties CoC"
+ddepriest@stjoemo.org,Don,Depriest,,,,"MO-603 - Saint Joseph/Andrew, Buchanan, DeKalb Counties CoC"
+LeeAnn_Hobson@usc.salvationarmy.org,Leeann,Hobson,,,,"MO-603 - Saint Joseph/Andrew, Buchanan, DeKalb Counties CoC"
+rsharp@interservstjoe.org,Randy,Sharp,,,,"MO-603 - Saint Joseph/Andrew, Buchanan, DeKalb Counties CoC"
+vriddle@hscgkc.org,Vickie,"Riddle, Lcsw",,,,"MO-604 - Kansas City (MOandKS), Independence, Lee's Summit/Jackson, Wyandotte Counties CoC"
+jennifermiller@uwgkc.org,Jennifer,Miller,,,,"MO-604 - Kansas City (MOandKS), Independence, Lee's Summit/Jackson, Wyandotte Counties CoC"
+mnagel@marc.org,Marlene,Nagel,,,,"MO-604 - Kansas City (MOandKS), Independence, Lee's Summit/Jackson, Wyandotte Counties CoC"
+Rozz@moboscoc.org,Rozz,Ridings,,,,MO-606 - Missouri Balance of State CoC
+sandy.wilson@icalliances.org,Sandy,Wilson,,,,MO-606 - Missouri Balance of State CoC
+jjmuna@nmhc.gov.mp,Jacob,Muna,,,,MP-500 - Northern Mariana Islands CoC
+jbuckley@stewpot.org,Jill,Buckley,,Complete,,"MS-500 - Jackson/Rankin, Madison Counties CoC"
+mthompson@stewpot.org,Mary,Thompson,,Complete,,"MS-500 - Jackson/Rankin, Madison Counties CoC"
+dwilliams@stewpot.org,Darnetta,Williams,Yes,Complete,,"MS-500 - Jackson/Rankin, Madison Counties CoC"
+lmeyer@muteh.org,Louise,Meyer,,,,MS-501 - Mississippi Balance of State CoC
+lparker@muteh.org,Ledger,Parker,,,,MS-501 - Mississippi Balance of State CoC
+marysimons2@aol.com,Mary,Simons,,Complete,,MS-503 - Gulf Port/Gulf Coast Regional CoC
+marysimons@opendoorshc.org,Mary,Simons,,Complete,,MS-503 - Gulf Port/Gulf Coast Regional CoC
+pattiguider@opendoorshc.org,Patti,Guider,,Complete,,MS-503 - Gulf Port/Gulf Coast Regional CoC
+bobbuzzas@gmail.com,Robert,Buzzas,,,,MT-500 - Montana Statewide CoC
+William.matson@pcni.org,William,Matson,,,,MT-500 - Montana Statewide CoC
+leeg@cityofws.org,Lee,Garrity,,,,NC-500 - Winston-Salem/Forsyth County CoC
+sherekaf@cityofws.org,Shereka,Floyd,,,,NC-500 - Winston-Salem/Forsyth County CoC
+mmorris@nchmis.org,Marti,Morris,Yes,,,NC-500 - Winston-Salem/Forsyth County CoC
+bhuskey@ashevillenc.gov,Brian,Huskey,,,,NC-501 - Asheville/Buncombe County CoC
+gleslie@mihomeless.org,Gerry,Leslie,,,,NC-501 - Asheville/Buncombe County CoC
+reginald.johnson@durhamnc.gov,Reginald,Johnson,,,,NC-502 - Durham City and County CoC
+lloyd.schmeidler@durhamnc.gov,Lloyd,Schmeidler,,,,NC-502 - Durham City and County CoC
+bos@ncceh.org,Denise,Neunaber,,Complete,,NC-503 - North Carolina Balance of State CoC
+brian@PartnersEndingHomelessness.org,Brian,Hahne,,Complete,,"NC-504 - Greensboro, High Point CoC"
+kentia@PartnersEndingHomelessness.org,Kentia,Smith,,Complete,,"NC-504 - Greensboro, High Point CoC"
+mmorris@nchmis.org,Marti,Morris,,Complete,,"NC-504 - Greensboro, High Point CoC"
+erin.nixon@mecknc.gov,Erin,Nixon,,Complete,,NC-505 - Charlotte/Mecklenburg County CoC
+megan.coffey@mecklenburgcountync.gov,Megan,Coffey,,Complete,,NC-505 - Charlotte/Mecklenburg County CoC
+mmorris@nchmis.org,Marti,Morris,,Complete,,NC-505 - Charlotte/Mecklenburg County CoC
+gleslie@mihomeless.org,Gerald,Leslie,,Complete,,"NC-506 - Wilmington/Brunswick, New Hanover, Pender Counties CoC"
+kcrawford@partnershipwake.org,Kim,Crawford,,,,NC-507 - Raleigh/Wake County CoC
+jvolkel@partnershipwake.org,Jasmin,Volkel,,,,NC-507 - Raleigh/Wake County CoC
+mmorris@nchmis.org,Marti,Morris,,,,NC-507 - Raleigh/Wake County CoC
+Stravis@gfhs.info,Steffi,Travis,,Complete,,"NC-509 - Gastonia/Cleveland, Gaston, Lincoln Counties CoC"
+mmorris@nchmis.org,Marti,Morris,,Complete,,"NC-509 - Gastonia/Cleveland, Gaston, Lincoln Counties CoC"
+dtaylor@co.cumberland.nc.us,Delores,Taylor,,,,NC-511 - Fayetteville/Cumberland County CoC
+mmorris@nchmis.org,Marti,Morris,,,,NC-511 - Fayetteville/Cumberland County CoC
+croot@orangecountync.gov,Corey,Root,,,,NC-513 - Chapel Hill/Orange County CoC
+mmorris@nchmis.org,Marti,Morris,,,,NC-513 - Chapel Hill/Orange County CoC
+director@hosphouse.org,Tina,Krause,,,,NC-516 - Northwest North Carolina CoC
+mmorris@nchmis.org,Marti,Morris,,,,NC-516 - Northwest North Carolina CoC
+jmoos@cawsnorthdakota.org,Janelle,Moos,,,,ND-500 - North Dakota Statewide CoC
+hmisadmin@ndhomelesscoalition.org,Brandy,Yant,,,,ND-500 - North Dakota Statewide CoC
+jchambers1@unl.edu,Jeff,Chambers,,,,NE-500 - Nebraska Balance of State CoC
+rmccoy@endhomelessnesstoday.org,Randy,Mccoy,,,,"NE-501 - Omaha, Council Bluffs CoC"
+deberbach@iowainstitute.net,David,Eberbach,Yes,,,"NE-501 - Omaha, Council Bluffs CoC"
+bschmeichel@lincoln.ne.gov,Bradd,Schmeichel,,Complete,,NE-502 - Lincoln CoC
+dpackard4@unl.edu,Denise,Packard,,Complete,,NE-502 - Lincoln CoC
+jchambers1@unl.edu,Jeff,Chambers,,Complete,,NE-502 - Lincoln CoC
+Melissa.Hatfield@dhhs.nh.gov,Melissa,Hatfield,,,,NH-500 - New Hampshire Balance of State CoC
+Melissa.hatfield@dhhs.nh.gov,Melissa,Hatfield,,,,NH-500 - New Hampshire Balance of State CoC
+d.curley@nhpartnership.org,Donna,Curley,,,,NH-500 - New Hampshire Balance of State CoC
+ckuhn@fitnh.org,Cathy,Kuhn,Yes,,,NH-501 - Manchester CoC
+twands@fitnh.org,Tyler,Wands,,,,NH-501 - Manchester CoC
+melissa.hatfield@dhhs.nh.gov,Melissa,Hatfield,,,,NH-501 - Manchester CoC
+h.nelson@nhpartnership.org,Heather,Nelson,,,,NH-502 - Nashua/Hillsborough County CoC
+h.nelson@harborhomes.org,Heather,Nelson,,,,NH-502 - Nashua/Hillsborough County CoC
+Kristiane.Schott@dhhs.nh.gov,Kristi,Schott,,,,NH-502 - Nashua/Hillsborough County CoC
+McLernon_John@aclink.org,John,Mclernon,,,,NJ-500 - Atlantic City and County CoC
+cbrewster@njhmfa.state.nj.us,Catherine,Brewster,,,,NJ-500 - Atlantic City and County CoC
+adrakes@co.bergen.nj.us,Angela,Drakes,,,,NJ-501 - Bergen County CoC
+snottingham@co.bergen.nj.us,Susan,Nottingham,,,,NJ-501 - Bergen County CoC
+jhiros@co.burlington.nj.us,Jennifer,Hiros,,,,NJ-502 - Burlington County CoC
+mdundas@njhmfa.state.nj.us,Micahel,Dundas,,,,NJ-502 - Burlington County CoC
+dcooper@cpachvi.org,Diana,Cooper-Vanderlip,,,,"NJ-503 - Camden City and County/Gloucester, Cape May, Cumberland Counties CoC"
+plong@uoss.org,Paula,Long,,,,"NJ-503 - Camden City and County/Gloucester, Cape May, Cumberland Counties CoC"
+CBrewster@njhmfa.gov,Catherine,Norris Brewster,,,,"NJ-503 - Camden City and County/Gloucester, Cape May, Cumberland Counties CoC"
+jtorres@communityaction.essexcountynj.org,Jessica,Torres,,,,NJ-504 - Newark/Essex County CoC
+mramos@communityaction.essexcountynj.org,Maria,Ramos,,,,NJ-504 - Newark/Essex County CoC
+kravensbergen@hcnj.us,Katelyn,Ravensbergen,,Complete,,"NJ-506 - Jersey City, Bayonne/Hudson County CoC"
+cbrewster@njhmfa.gov,Catherine,Brewster,,Complete,,"NJ-506 - Jersey City, Bayonne/Hudson County CoC"
+melissa.bellamy@co.middlesex.nj.us,Melissa,Bellamy,,,,NJ-507 - New Brunswick/Middlesex County CoC
+jkaniewski@nj211.org,Janice,Kaniewski,,,,NJ-507 - New Brunswick/Middlesex County CoC
+eodonnell@cominghomemiddlesex.org,Eileen,O'Donnell,,,,NJ-507 - New Brunswick/Middlesex County CoC
+Jeffrey.Schwartz@co.monmouth.nj.us,Jeffrey,Schwartz,,,,NJ-508 - Monmouth County CoC
+Kathleen.Weir@co.monmouth.nj.us,Kathleen,Weir,,,,NJ-508 - Monmouth County CoC
+cbrewster@njhmfa.state.nj.us,Catherine,Brewster,,,,NJ-508 - Monmouth County CoC
+scarter@co.morris.nj.us,Shelia,Carter,,,,NJ-509 - Morris County CoC
+cgonzalez@njhmfa.state.nj.us,Catherine,Brewster,,,,NJ-509 - Morris County CoC
+oceanihn@gmail.com,Patricia,Cash,,,,NJ-510 - Lakewood Township/Ocean County CoC
+rbulbach@co.ocean.nj.us,Rose,Bulbach,,,,NJ-510 - Lakewood Township/Ocean County CoC
+cbrewster@njhmfa.state.nj.us,Catherine,Brewster,,,,NJ-510 - Lakewood Township/Ocean County CoC
+francinev@passaiccountynj.org,Francine,Vince,,,,NJ-511 - Paterson/Passaic County CoC
+glenism@passaiccountynj.org,Glenis,Mccloud,,,,NJ-511 - Paterson/Passaic County CoC
+cbrewster@njhmfa.gov,Catherine,Brewster,,,,NJ-511 - Paterson/Passaic County CoC
+JodyV@salemcountyiac.org,Jody,Veler,,,,NJ-512 - Salem County CoC
+kathy.lockbaum@scbssnj.org,Kathleen,Lockbaum,,,,NJ-512 - Salem County CoC
+cbrewster@njhmfa.gov,Catherine,Brewster,,,,NJ-512 - Salem County CoC
+cowart@co.somerset.nj.us,Kimberly,Cowart,,,,NJ-513 - Somerset County CoC
+cbrewster@njhmfa.gov,Catherine,Brewster,,,,NJ-513 - Somerset County CoC
+sabdul-ali@trentonnj.org,Shakira,Abdul-Ali,,,,NJ-514 - Trenton/Mercer County CoC
+fcirillo@merceralliance.org,Frank,Cirillo,,,,NJ-514 - Trenton/Mercer County CoC
+cbrewster@njhmfa.gov,Catherine,Brewster,,,,NJ-514 - Trenton/Mercer County CoC
+ctopolosky@ucnj.org,Christina,Topolosky,,,,NJ-515 - Elizabeth/Union County CoC
+scarpio@ucnj.org,Samantha,Carpio,,,,NJ-515 - Elizabeth/Union County CoC
+CBrewster@njhmfa.state.nj.us,Catherine,Brewster,,,,NJ-515 - Elizabeth/Union County CoC
+cbutto@familypromisesussex.org,Chris,"Butto, Msw",,Complete,,"NJ-516 - Warren, Sussex, Hunterdon Counties CoC"
+cbrewster@njhmfa.gov,Catherine,Brewster,,Complete,,"NJ-516 - Warren, Sussex, Hunterdon Counties CoC"
+Hana-G@nmceh.org,Hana,Gossett,,Complete,,NM-500 - Albuquerque CoC
+roman-s@nmceh.org,Roman,Seaburgh,,Complete,,NM-500 - Albuquerque CoC
+hlshultz@cabq.gov,Heidiliza,Shultz,,Complete,,NM-500 - Albuquerque CoC
+hank-h@nmceh.org,Hank,Hughes,,,,NM-501 - New Mexico Balance of State CoC
+roman-s@nmceh.org,Roman,Seaburgh,,,,NM-501 - New Mexico Balance of State CoC
+michael-n@nmceh.org,Michael,Nitsch,,,,NM-501 - New Mexico Balance of State CoC
+rkr@clarkcountynv.gov,Randall,Reinoso,,,,NV-500 - Las Vegas/Clark County CoC
+helphopehome@clarkcountynv.gov,Catherine,Huang,,,,NV-500 - Las Vegas/Clark County CoC
+c3h@clarkcountynv.gov,Catherine,Huang Hara,,,,NV-500 - Las Vegas/Clark County CoC
+readh@reno.gov,Hettie,Read,,,,"NV-501 - Reno, Sparks/Washoe County CoC"
+Kvanhest@ccsnn.org,Karen,Van Hest,,,,"NV-501 - Reno, Sparks/Washoe County CoC"
+C3H@ClarkCountyNV.gov,Catherine,Huang Hara,,,,"NV-501 - Reno, Sparks/Washoe County CoC"
+lsherych@dpbh.nv.gov,Lisa,"Sherych, Ph.D",Yes,,,NV-502 - Nevada Balance of State CoC
+kvansickle@nvrural.org,Kimberle,Mckee,,,,NV-502 - Nevada Balance of State CoC
+C3H@ClarkCountyNV.gov,Catherine,"Huang, Msw",,,,NV-502 - Nevada Balance of State CoC
+csanderson@rochesterhomelesscoc.org,Connie,Sanderson,,,,"NY-500 - Rochester, Irondequoit, Greece/Monroe County CoC"
+cbollinger@rochesterhomelesscoc.org,Charles,Bollinger,,,,"NY-500 - Rochester, Irondequoit, Greece/Monroe County CoC"
+abarber@rochesterhomelesscoc.org,Anne,Barber,,,,"NY-500 - Rochester, Irondequoit, Greece/Monroe County CoC"
+kaddy@caresny.org,Kelsey,Addy,,,,"NY-501 - Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC"
+jcantrill@dor.org,James,Cantrill,,,,"NY-501 - Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC"
+kaddy@caresny.org,Kelsey,Addy,,,,NY-503 - Albany City and County CoC
+lhitt@hatas.org,Liz,Hitt,,,,NY-503 - Albany City and County CoC
+athiessen@caresny.org,Allyson,Thiessen,,,,NY-503 - Albany City and County CoC
+jacque@housingoptions.org,Jacqueline,Emborski,,,,NY-504 - Cattaraugus County CoC
+toni.taylor@housingoptions.org,Toni,Taylor,,,,NY-504 - Cattaraugus County CoC
+shannon.higbee@housingoptions.org,Shannon,Higbee,,,,NY-504 - Cattaraugus County CoC
+mstuart@unitedway-cny.org,Megan,Stuart,,Complete,,"NY-505 - Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC"
+cgiarusso@contactsyracuse.org,Cheryl,Giarusso,,Complete,,"NY-505 - Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC"
+sschutt@unitedway-cny.org,Sarah,Schutt,,Complete,,"NY-505 - Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC"
+kaddy@caresny.org,Kelsey,Addy,,,,NY-507 - Schenectady City and County CoC
+KSheppard@bethesdahouseschenectady.org,Kimarie,Sheppard,,,,NY-507 - Schenectady City and County CoC
+athiessen@caresny.org,Allyson,Thiessen,,,,NY-507 - Schenectady City and County CoC
+zuchlewski@wnyhomeless.org,Dale,Zuchlewski,,Complete,,"NY-508 - Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC"
+kexinma@wnyhomeless.org,Kexin,Ma,,Complete,,"NY-508 - Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC"
+kschlather@hsctc.org,Kathleen,Schlather,,Complete,,NY-510 - Ithaca/Tompkins County CoC
+cindy.mott@dfa.state.ny.us,Cindy,Mott,,Complete,,NY-510 - Ithaca/Tompkins County CoC
+lbargar@hsctc.org,Liddy,Bargar,,Complete,,NY-510 - Ithaca/Tompkins County CoC
+kaddy@caresny.org,Kelsey,Addy,,,,"NY-511 - Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties CoC"
+bdaniels@NY-511HMIS.org,Brian,Daniels,,,,"NY-511 - Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties CoC"
+jhulse@NY-511HMIS.org,James,Hulse,,,,"NY-511 - Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties CoC"
+kaddy@caresny.org,Kelsey,Addy,,Complete,,NY-512 - Troy/Rensselaer County CoC
+koconnor@josephshousetroy.org,Kevin,O'Connor,,Complete,,NY-512 - Troy/Rensselaer County CoC
+athiessen@caresny.org,Allyson,Thiessen,,Complete,,NY-512 - Troy/Rensselaer County CoC
+jyonkers@chautopp.org,Judy,Yonkers,,,,"NY-514 - Jamestown, Dunkirk/Chautauqua County CoC"
+dsalvo@chautopp.org,Diane,Salvo,,,,"NY-514 - Jamestown, Dunkirk/Chautauqua County CoC"
+jlamp@chautopp.org,Josiah,Lamp,,,,"NY-514 - Jamestown, Dunkirk/Chautauqua County CoC"
+John.Redden@clintoncountygov.com,John,Redden,,,,NY-516 - Clinton County CoC
+shaunam@etchousing.org,Shauna,Miller,,,,NY-516 - Clinton County CoC
+rrobinson@unitedwayvgu.org,Robin,Robinson,,Complete,,"NY-518 - Utica, Rome/Oneida, Madison Counties CoC"
+snova@mvhomeless.org,Sheila,Nova,,Complete,,"NY-518 - Utica, Rome/Oneida, Madison Counties CoC"
+lindaw@unitedwayvgu.org,Linda,Wilkinson,,Complete,,"NY-518 - Utica, Rome/Oneida, Madison Counties CoC"
+kaddy@caresny.org,Kelsey,Addy,,,,"NY-519 - Columbia, Greene Counties CoC"
+tsharpe@columbiaopportunities.org,Tina,Sharpe,,,,"NY-519 - Columbia, Greene Counties CoC"
+athiessen@caresny.org,Allyson,Thiessen,,,,"NY-519 - Columbia, Greene Counties CoC"
+kaddy@caresny.org,Kelsey,Addy,,Complete,,"NY-520 - Franklin, Essex Counties CoC"
+egillen@thefcchc.com,Eileen,Gillen,,Complete,,"NY-520 - Franklin, Essex Counties CoC"
+athiessen@caresny.org,Allyson,Thiessen,,Complete,,"NY-520 - Franklin, Essex Counties CoC"
+kaddy@caresny.org,Kelsey,Addy,,,,"NY-522 - Jefferson, Lewis, Saint Lawrence Counties CoC"
+DVCE.Manager@dfa.state.ny.us,Kristin,Post,,,,"NY-522 - Jefferson, Lewis, Saint Lawrence Counties CoC"
+athiessen@caresny.org,Allyson,Thiessen,Yes,,,"NY-522 - Jefferson, Lewis, Saint Lawrence Counties CoC"
+kaddy@caresny.org,Kelsey,Addy,,Complete,,"NY-523 - Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties CoC"
+andy@captaincares.org,Andy,Gilpin,,Complete,,"NY-523 - Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties CoC"
+athiessen@caresny.org,Allyson,Thiessen,,Complete,,"NY-523 - Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties CoC"
+linda.camoin@otda.ny.gov,Linda,Camoin,,Complete,,NY-525 - New York Balance of State CoC
+Arden.Estep@otda.ny.gov,Arden,Estep,,Complete,,NY-525 - New York Balance of State CoC
+nchiarella@caresny.org,Nancy,Chiarella,,Complete,,NY-525 - New York Balance of State CoC
+kentonm@dss.nyc.gov,Martha,Kenton,,,,NY-600 - New York City CoC
+prevention@dhs.nyc.gov,Dhs,Hotline,,,,NY-600 - New York City CoC
+mitchellkr@dss.nyc.gov,Kristen,Mitchell,,,,NY-600 - New York City CoC
+asaylor@dutchessny.gov,Anne,Saylor,,,,NY-601 - Poughkeepsie/Dutchess County CoC
+njohannesen@hudsonriverhousing.org,Nikole,Johannesen,,,,NY-601 - Poughkeepsie/Dutchess County CoC
+athiessen@cares.org,Allyson,Thiessen,,,,NY-601 - Poughkeepsie/Dutchess County CoC
+mherrera@honorehg.org,Michelle,Herrera,,,,"NY-602 - Newburgh, Middletown/Orange County CoC"
+athiessen@caresny.org,Allyson,Thiessen,,,,"NY-602 - Newburgh, Middletown/Orange County CoC"
+gguarton@addressthehomeless.org,Greta,"Guarton, Lmsw",,Complete,,"NY-603 - Nassau, Suffolk Counties CoC"
+wscallon@addressthehomeless.org,Wayne,Scallon,,Complete,,"NY-603 - Nassau, Suffolk Counties CoC"
+apr5@westchestergov.com,Annette,Peters-Ruvolo,,,,"NY-604 - Yonkers, Mount Vernon/Westchester County CoC"
+jjcf@westchestergov.com,Jomarie,Tarchoun,,,,"NY-604 - Yonkers, Mount Vernon/Westchester County CoC"
+cqw1@westchestergov.com,Craig,Wong,,,,"NY-604 - Yonkers, Mount Vernon/Westchester County CoC"
+kaddy@caresny.org,Kelsey,Addy,,Complete,,NY-606 - Rockland County CoC
+Deena.Roedema@dfa.state.ny.us,Deena,Roedema,,Complete,,NY-606 - Rockland County CoC
+athiessen@caresny.org,Allyson,Thiessen,,Complete,,NY-606 - Rockland County CoC
+John.VanEtten@cccsos.org,John,Van Etten,,,,NY-607 - Sullivan County CoC
+mberg@fowinc.org,Michael,Berg,,,,NY-608 - Kingston/Ulster County CoC
+athiessen@caresny.org,Allyson,Thiessen,,,,NY-608 - Kingston/Ulster County CoC
+kfinn@end-homelessness.org,Kevin,"Finn, Msw",,Complete,,OH-500 - Cincinnati/Hamilton County CoC
+astewart@end-homelessness.org,Amy,Stewart J.D.,,Complete,,OH-500 - Cincinnati/Hamilton County CoC
+tluettke@tlchb.org,Thomas,Luettke,,,,OH-501 - Toledo/Lucas County CoC
+nfdobens@unitedwaycleveland.org,Nikki,Fugett-Dobens,,,,OH-501 - Toledo/Lucas County CoC
+csutherland@tlchb.org,Carl,Sutherland Ii,,,,OH-501 - Toledo/Lucas County CoC
+rgillett@cuyahogacounty.us,Ruth,Gillett,,,,OH-502 - Cleveland/Cuyahoga County CoC
+LaTonya.Murray@frontlineservice.org,Latonya,Murray,,,,OH-502 - Cleveland/Cuyahoga County CoC
+agill@cuyahogacounty.us,Allison,Gill,,,,OH-502 - Cleveland/Cuyahoga County CoC
+lbarbu@csb.org,Lianna,Barbu,,,,OH-503 - Columbus/Franklin County CoC
+emaus@csb.org,Erin,Maus,,,,OH-503 - Columbus/Franklin County CoC
+adeascentis@mahoningcountyoh.gov,Anna,Deascentis,,Complete,,OH-504 - Youngstown/Mahoning County CoC
+colleen.kosta@mahoningcountyoh.gov,Colleen,Kosta,,Complete,,OH-504 - Youngstown/Mahoning County CoC
+shanahank@mcohio.org,Kathleen,Shanahan,,,,"OH-505 - Dayton, Kettering/Montgomery County CoC"
+lesniakj@mcohio.org,Jenny,Lesniak,,,,"OH-505 - Dayton, Kettering/Montgomery County CoC"
+HTomic@akronohio.gov,Helen,Tomic,,,,"OH-506 - Akron, Barberton/Summit County CoC"
+mhayduke@infolineinc.org,Melanie,Hayduke,,,,"OH-506 - Akron, Barberton/Summit County CoC"
+abuldum@infolineinc.org,Asli,Buldum,,,,"OH-506 - Akron, Barberton/Summit County CoC"
+scott.gary@development.ohio.gov,Scott,Gary,,Complete,6 surveys complete,OH-507 - Ohio Balance of State CoC
+Scott.Gary@development.ohio.gov,Scott,Gary,,Complete,,OH-507 - Ohio Balance of State CoC
+ericamulryan@cohhio.org,Erica,Mulryan,,Complete,,OH-507 - Ohio Balance of State CoC
+mbragg@starkhousingnetwork.org,Marcie,Bragg,,,,"OH-508 - Canton, Massillon, Alliance/Stark County CoC"
+Jennifer.Keaton@starkmhar.org,Jennifer,Keaton,,,,"OH-508 - Canton, Massillon, Alliance/Stark County CoC"
+cheri.ezzell@cdsaok.org,Cheri,Ezzell,,,,OK-500 - North Central Oklahoma CoC
+earlene@cdsaok.org,Earlene,Click,,,,OK-500 - North Central Oklahoma CoC
+uwhmis@cableone.net,Melisa,Brumley,,,,OK-500 - North Central Oklahoma CoC
+housingsolutions@housingsolutionstulsa.org,Olivia,Denton Koopman,,,,OK-501 - Tulsa City and County CoC
+housingsolutions@housingsolutionstulsa.org,Becky,Gligo,,,,OK-501 - Tulsa City and County CoC
+jerod.shadid@okc.gov,Jerod,Shadid,,Complete,,OK-502 - Oklahoma City CoC
+ccardoni@heartlineoklahoma.org,Claudia,Cardoni,,Complete,,OK-502 - Oklahoma City CoC
+hmis@isok.biz,Keith,Anderson,,Complete,,OK-502 - Oklahoma City CoC
+focklerpd@gmail.com,Paul,Fockler,,,,OK-503 - Oklahoma Balance of State CoC
+wwcasemanager@nwdcs.org,Shanna,Gonser,,,,OK-503 - Oklahoma Balance of State CoC
+HMIS@ISOK.biz,Keith,Anderson,,,,OK-503 - Oklahoma Balance of State CoC
+lisa.krieg@normanok.gov,Lisa,Krieg,,,,OK-504 - Norman/Cleveland County CoC
+danstraughan@homelessalliance.org,Dan,Straughan,,,,OK-504 - Norman/Cleveland County CoC
+jjackson@lawtonhousing.org,Jervis,Jackson,,,,OK-506 - Southwest Oklahoma Regional CoC
+linda.love@kibois.org,Linda,Love,,Complete,,OK-507 - Southeastern Oklahoma Regional CoC
+uwhmis@cableone.net,Melisa,Brumley,,Complete,,OK-507 - Southeastern Oklahoma Regional CoC
+steve.mokrohisky@co.lane.or.us,Steve,Mokrohisky,,Complete,,"OR-500 - Eugene, Springfield/Lane County CoC"
+james.ewell@lanecountyor.gov,James,Ewell,,Complete,,"OR-500 - Eugene, Springfield/Lane County CoC"
+Lise.Stuart@co.lane.or.us,Lise,Stuart,,Complete,,"OR-500 - Eugene, Springfield/Lane County CoC"
+amanda.borta@lanecountyor.gov,Amanda,Borta,,Complete,,"OR-500 - Eugene, Springfield/Lane County CoC"
+marc.jolin@multco.us,Marc,Jolin,,,,"OR-501 - Portland, Gresham/Multnomah County CoC"
+help@211info.org,Information And,Referral,,,,"OR-501 - Portland, Gresham/Multnomah County CoC"
+wendy.smith@portlandoregon.gov,Wendy,Smith,,,,"OR-501 - Portland, Gresham/Multnomah County CoC"
+jagee@accesshelps.org,Jackie,Agee,,Complete,,"OR-502 - Medford, Ashland/Jackson County CoC"
+jchtf97501@gmail.com,George,Jarvis,,Complete,,"OR-502 - Medford, Ashland/Jackson County CoC"
+gjarvis@accesshelps.org,George,Jarvis,,Complete,,"OR-502 - Medford, Ashland/Jackson County CoC"
+pattyw@neighborimpact.org,Patty,Wilson,,,,OR-503 - Central Oregon CoC
+mollyh@neighborimpact.org,Molly,Heiss,,,,OR-503 - Central Oregon CoC
+jessica@caporegon.org,Jessica,Adams,,,,OR-505 - Oregon Balance of State CoC
+david@caporegon.org,David,Mulig,,,,OR-505 - Oregon Balance of State CoC
+Komi_Kalevor@co.washington.or.us,Komi,Kalevor,,Complete,,"OR-506 - Hillsboro, Beaverton/Washington County CoC"
+Annette_Evans@co.washington.or.us,Annette,Evans,,Complete,,"OR-506 - Hillsboro, Beaverton/Washington County CoC"
+abbyahe@co.clackamas.or.us,Abby,Ahern,,Complete,,OR-507 - Clackamas County CoC
+esilver@co.clackamas.or.us,Erika,Silver,,Complete,,OR-507 - Clackamas County CoC
+abbyahe@clackamas.us,Abby,Ahern,,Complete,,OR-507 - Clackamas County CoC
+liz.hersh@phila.gov,Elizabeth,Hersh,,Complete,,PA-500 - Philadelphia CoC
+Leticia.Devonish@phila.gov,Leticia,Devonish,,Complete,,PA-500 - Philadelphia CoC
+windy.sengsatheuane@phila.gov,Windy,Sengsatheuane,,Complete,,PA-500 - Philadelphia CoC
+bdavis@hra-harrisburgpa.org,Bryan,Davis,,Complete,,PA-501 - Harrisburg/Dauphin County CoC
+dreinford@ccuhbg.org,Darrell,Reinford,,Complete,,PA-501 - Harrisburg/Dauphin County CoC
+dritchey@hra-harrisburgpa.org,Deborarh,Ritchey,,Complete,,PA-501 - Harrisburg/Dauphin County CoC
+finkj@delcohsa.org,Jessica,Fink,,,,"PA-502 - Upper Darby, Chester, Haverford/Delaware County CoC"
+loughinl@delcohsa.org,Linda,Loughin,,,,"PA-502 - Upper Darby, Chester, Haverford/Delaware County CoC"
+bgomb@ceopeoplehelpingpeople.org,Barbara,Gomb,,Complete,,"PA-503 - Wilkes-Barre, Hazleton, Luzerne County CoC"
+rblaine@ceopeoplehelpingpeople.org,Roderick,Blaine,,Complete,,"PA-503 - Wilkes-Barre, Hazleton, Luzerne County CoC"
+sgood@montcpoa.org,Sheldon,Good,,Complete,,"PA-504 - Lower Merion, Norristown, Abington/Montgomery County CoC"
+mlanford@montcopa.org,Mikaela,Lanford,,Complete,,"PA-504 - Lower Merion, Norristown, Abington/Montgomery County CoC"
+aburger@montcopa.org,Allison,Pope-Burger,,Complete,,"PA-504 - Lower Merion, Norristown, Abington/Montgomery County CoC"
+dcolligan@chesco.org,Dolores,Colligan,,Complete,,PA-505 - Chester County CoC
+gsuski@chesco.org,Gene,Suski,,Complete,,PA-505 - Chester County CoC
+hhaake@chesco.org,Hilary,Haake,,Complete,,PA-505 - Chester County CoC
+jack@bceh.org,John,Williams,,Complete,,PA-506 - Reading/Berks County CoC
+tracey@bceh.org,Tracey,York,,Complete,,PA-506 - Reading/Berks County CoC
+elise@bceh.org,Elise,Mccauley,,Complete,,PA-506 - Reading/Berks County CoC
+jmarino@uncnepa.org,Justin,Marino,,,,PA-508 - Scranton/Lackawanna County CoC
+mlee@uncnepa.org,Megan,Lee,,,,PA-508 - Scranton/Lackawanna County CoC
+jwallo@uncnepa.org,Jessica,Wallo,,,,PA-508 - Scranton/Lackawanna County CoC
+asusten@pa.gov,Angela,Susten,,,,PA-509 - Eastern Pennsylvania CoC
+antdiaz@pa.gov,Antonio,Diaz,,,,PA-509 - Eastern Pennsylvania CoC
+jheinrich2@lghealth.org,Jody,Heinrich,,,,PA-510 - Lancaster City and County CoC
+mfoley3@lghealth.org,Michael,Foley,,,,PA-510 - Lancaster City and County CoC
+sdbodman@buckscounty.org,Stefanie,Bodman,,,,"PA-511 - Bristol, Bensalem/Bucks County CoC"
+pgoldbach@fsabc.org,Patricia,Goldbach,,,,"PA-511 - Bristol, Bensalem/Bucks County CoC"
+gbarnock@ycpc.org,George,Barnock,,,,PA-512 - York City and County CoC
+kblechertas@ycpc.org,Kelly,Blechertas,,,,PA-512 - York City and County CoC
+marc.cherna@alleghenycounty.us,Marc,Cherna,,Complete,,"PA-600 - Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC"
+AlleghenyLink@AlleghenyCounty.US,Andrea,Bustos,,Complete,,"PA-600 - Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC"
+andy.halfhill@alleghenycounty.us,Andy,Halfhill,,Complete,,"PA-600 - Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC"
+asusten@pa.gov,Angela,Susten,,,,PA-601 - Western Pennsylvania CoC
+antdiaz@pa.gov,Antonio,Diaz,,,,PA-601 - Western Pennsylvania CoC
+lsignore@beavercountypa.gov,Lisa,Signore,,Opt Out,Did not receive voucher,PA-603 - Beaver County CoC
+ciabattonidina@gmail.com,Dina,Ciabattoni,,Opt Out,Did not receive voucher,PA-603 - Beaver County CoC
+georgebeegle22@gmail.com,George,Beegle,,Opt Out,Did not receive voucher,PA-603 - Beaver County CoC
+countyexecutive@eriecountygov.org,Kathy,Dahlkemper,,,Did not receive voucher,PA-605 - Erie City and County CoC
+kdimitrovski@eriecountypa.gov,Krissy,Dimitrovski,,,Did not receive voucher,PA-605 - Erie City and County CoC
+lkarle@eriecountypa.gov,Lisa,Karle,,,Did not receive voucher,PA-605 - Erie City and County CoC
+llamboy@familia.pr.gov,Liz,Lamboy,,,,PR-502 - Puerto Rico Balance of Commonwealth CoC
+vcamacho@coalicionpr.com,Vivian,Camacho,,,,PR-502 - Puerto Rico Balance of Commonwealth CoC
+mmartinez@morivivipr.org,Melba M,Martinez,,,,PR-503 - South-Southeast Puerto Rico CoC
+coaliciondecoaliciones@gmail.com,Francisco,RodríGuez,,,,PR-503 - South-Southeast Puerto Rico CoC
+ebioteau@rihousing.com,Elizabeth,Bioteau,,,,RI-500 - Rhode Island Statewide CoC
+amy@rihomeless.org,Amy,Ferguson,,,,RI-500 - Rhode Island Statewide CoC
+caitlin@rihomeless.org,Caitlin,Frumerie,,,,RI-500 - Rhode Island Statewide CoC
+awilson@one80place.org,Amy,Wilson,,,,SC-500 - Charleston/Low Country CoC
+lowcountryhomelesscoalition@gmail.com,Bonnie,Miller,,,,SC-500 - Charleston/Low Country CoC
+hmis@one80place.org,Amy,Wilson,Yes,,,SC-500 - Charleston/Low Country CoC
+lcrowl@uhcsc.org,Lorain,Crowl,,,,"SC-501 - Greenville, Anderson, Spartanburg/Upstate CoC"
+info@uhcsc.org,Natalie,Worley,,,,"SC-501 - Greenville, Anderson, Spartanburg/Upstate CoC"
+crodriguez@uhcsc.org,Cecilia,Rodriguez,,,,"SC-501 - Greenville, Anderson, Spartanburg/Upstate CoC"
+jmoore@uway.org,Jennifer,Moore,,,,SC-502 - Columbia/Midlands CoC
+tbolton@uway.org,Tom,Bolton,,,,SC-502 - Columbia/Midlands CoC
+langelo@uway.org,Lauren,Angelo,,,,SC-502 - Columbia/Midlands CoC
+jsmoak@echomeless.org,Joey,Smoak,,,,"SC-503 - Myrtle Beach, Sumter City and County CoC"
+schapman@echomeless.org,Sarah,Chapman,,,,"SC-503 - Myrtle Beach, Sumter City and County CoC"
+kjenkins@echomeless.org,Kyle,Jenkins,,,,"SC-503 - Myrtle Beach, Sumter City and County CoC"
+davis@sdhda.org,Davis,Schofield,,Complete,,SD-500 - South Dakota Statewide CoC
+denise@sdhda.org,Denise,Albertson,,Complete,,SD-500 - South Dakota Statewide CoC
+wwinters@homelesscoalition.org,Wendy,Winters,,Complete,,TN-500 - Chattanooga/Southeast Tennessee CoC
+ebeers@homelesscoalition.org,Emma,Beers,,Complete,,TN-500 - Chattanooga/Southeast Tennessee CoC
+mwilliams@homelesscoalition.org,Mark,Williams,,Complete,,TN-500 - Chattanooga/Southeast Tennessee CoC
+chere@cafth.org,Cheré,Bradshaw,,Complete,,TN-501 - Memphis/Shelby County CoC
+coordinatedentry@cafth.org,Kirsten,Hipkins,,Complete,,TN-501 - Memphis/Shelby County CoC
+tara@cafth.org,Tara,Williams,,Complete,,TN-501 - Memphis/Shelby County CoC
+grant@cafth.org,Grant,Ebbesmeyer,,Complete,,TN-501 - Memphis/Shelby County CoC
+mdunthorn@knoxvilletn.gov,Michael,Dunthorn,,,,TN-502 - Knoxville/Knox County CoC
+dpatter2@utk.edu,David,Patterson,,,,TN-502 - Knoxville/Knox County CoC
+zabrina@chpwc.org,Zabrina,Gregg,,Complete,,TN-503 - Central Tennessee CoC
+rae@chpwc.org,Rae,Sanchez,,Complete,,TN-503 - Central Tennessee CoC
+stolmie@nashville-mdha.org,Suzie,Tolmie,,Complete,,TN-504 - Nashville-Davidson County CoC
+renee.pratt@nashville.gov,Renee,Pratt,,Complete,NEW EMAIL,TN-504 - Nashville-Davidson County CoC
+rachel.cook@nashville.gov,Rachel,Cook,,Complete,,TN-504 - Nashville-Davidson County CoC
+admin@crossvillehousing.org,Kathy,Vanlandingham,,,,TN-506 - Upper Cumberland CoC
+homeless.ces@gmail.com,Lisa,Thompson,,,,TN-506 - Upper Cumberland CoC
+gwin.hmis@gmail.com,Laura,Gwin,,,,TN-506 - Upper Cumberland CoC
+vicki.lake@wth.org,Victoria,Lake,,,,TN-507 - Jackson/West Tennessee CoC
+mcdonald.ths@gmail.com,Amy,Mcdonald,,,,TN-507 - Jackson/West Tennessee CoC
+Anne@appalachianhomeless.org,Anne,Cooper,,Complete,,TN-509 - Appalachian Regional CoC
+Tammy@appalachianhomeless.org,Tammy,Kosa,,Complete,,TN-509 - Appalachian Regional CoC
+stephen@appalachianhomeless.org,Stephen,Carter,,Complete,,TN-509 - Appalachian Regional CoC
+gparker@h3arc.org,Geoffrey,Parker,,,NEW EMAIL,TN-510 - Murfreesboro/Rutherford County CoC
+sfoster@lovegodservepeople.org,Alexander,Foster,,,,TN-510 - Murfreesboro/Rutherford County CoC
+mcordell@tvchomeless.org,Melanie,Cordell,,Complete,,"TN-512 - Morristown/Blount, Sevier, Campbell, Cocke Counties CoC"
+bharris@tvchomeless.org,Brandon,Harris,,Complete,,"TN-512 - Morristown/Blount, Sevier, Campbell, Cocke Counties CoC"
+dpatterson@tvchomeless.org,Deb,Patterson,,Complete,,"TN-512 - Morristown/Blount, Sevier, Campbell, Cocke Counties CoC"
+katievela@sarahomeless.org,Katie,Vela,,,,TX-500 - San Antonio/Bexar County CoC
+cliffordcantu@sarahomeless.org,Clifford,Cantu,,,,TX-500 - San Antonio/Bexar County CoC
+david.huete@havenforhope.org,David,Huete,,,,TX-500 - San Antonio/Bexar County CoC
+matthewmollica@austinecho.org,Matthew,Mollica,,,,TX-503 - Austin/Travis County CoC
+shavon.moore@mdhadallas.org,Shavon,Moore,,,,"TX-600 - Dallas City and County, Irving CoC"
+Melanie.Bostic@mdhadallas.org,Melanie,Bostic,,,,"TX-600 - Dallas City and County, Irving CoC"
+Alexandra.Espinosa@mdhadallas.org,Alexandra,Espinosa,,,,"TX-600 - Dallas City and County, Irving CoC"
+Tammy@ahomewithhope.org,Tammy,Mcghee,Yes,Complete,,"TX-601 - Fort Worth, Arlington/Tarrant County CoC"
+Carolyn@ahomewithhope.org,Carolyn,Curry,Yes,Complete,,"TX-601 - Fort Worth, Arlington/Tarrant County CoC"
+anthony@ahomewithhope.org,Anthony,Hogg,,,,"TX-601 - Fort Worth, Arlington/Tarrant County CoC"
+ccastillo.epch@elp.twcbc.com,Camille,Castillo,,Complete,,TX-603 - El Paso City and County CoC
+cbohle.epch@elp.twcbc.com,Carol,Bohle,,Complete,,TX-603 - El Paso City and County CoC
+RayneshaH@wacotx.gov,Raynesha,Hudnell,,,,TX-604 - Waco/McLennan County CoC
+Lindsey.Dennard-Tye@uss.salvationarmy.org,Lindsey,Tye,,,,TX-604 - Waco/McLennan County CoC
+hmis@prosperwaco.org,Sammy,Salazar,,,,TX-604 - Waco/McLennan County CoC
+txboscoc@thn.org,Sophia,Checa,,,,TX-607 - Texas Balance of State CoC
+kraig@thn.org,Kraig,Blaize-Fiero,,,,TX-607 - Texas Balance of State CoC
+kristin@thn.org,Kristin,Zakoor,,,,TX-607 - Texas Balance of State CoC
+juliana.kitten@amarillo.gov,Juliana,Kitten,,,,TX-611 - Amarillo CoC
+amy.dixon@amarillo.gov,Amy,Dixon,,,,TX-611 - Amarillo CoC
+dwilde@nortexrpc.org,Dennis,Wilde,,,,"TX-624 - Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC"
+dmorgan@nortexrpc.org,Diane,Morgan,,,,"TX-624 - Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC"
+arausch@homelesshouston.org,Ana,Rausch,,Complete,,"TX-700 - Houston, Pasadena, Conroe/Harris, Fort Bend, Montgomery Counties CoC"
+tatkinson@homelesshouston.org,Toni,Benson-Atkinson,,Complete,NEW EMAIL,"TX-700 - Houston, Pasadena, Conroe/Harris, Fort Bend, Montgomery Counties CoC"
+efetahagic@homelesshouston.org,Erol,Fetahagic,,Complete,,"TX-700 - Houston, Pasadena, Conroe/Harris, Fort Bend, Montgomery Counties CoC"
+nevilld@twincitymission.org,Dorothy,Nevill,,,,"TX-701 - Bryan, College Station/Brazos Valley CoC"
+familypromisebcs@gmail.com,Phebe,Simmons,,,,"TX-701 - Bryan, College Station/Brazos Valley CoC"
+youngj@twincitymission.org,Jennifer,Young,,,,"TX-701 - Bryan, College Station/Brazos Valley CoC"
+kfife@slco.org,Katherine,Fife,,Complete,,UT-500 - Salt Lake City and County CoC
+mflynn@theroadhome.org,Michelle,Flynn,,Complete,,UT-500 - Salt Lake City and County CoC
+josephmjensen@utah.gov,Joseph,Jensen,,Complete,,UT-500 - Salt Lake City and County CoC
+RussellGoodman@utah.gov,Russell,Goodman,,,,UT-503 - Utah Balance of State CoC
+UtahOHS@Utah.gov,,,,,,UT-503 - Utah Balance of State CoC
+JosephmJensen@utah.gov,Joseph,Jensen,,,,UT-503 - Utah Balance of State CoC
+heatherh@unitedwayuc.org,Heather,Hogue,,,,UT-504 - Provo/Mountainland CoC
+karenh@unitedwayuc.org,Karen,Hale,,,,UT-504 - Provo/Mountainland CoC
+hmis@utah.gov,Joseph,Jensen,,,,UT-504 - Provo/Mountainland CoC
+kkhorne@homewardva.org,Kelly,Horne,,Complete,,"VA-500 - Richmond/Henrico, Chesterfield, Hanover Counties CoC"
+tlawson@homewardva.org,Terri,Lawson,,Complete,,"VA-500 - Richmond/Henrico, Chesterfield, Hanover Counties CoC"
+mackermann@homewardva.org,Margot,Ackermann,,Complete,,"VA-500 - Richmond/Henrico, Chesterfield, Hanover Counties CoC"
+abrandenburg@theplanningcouncil.org,Amanda,Brandenberg,,Complete,,"VA-501 - Norfolk, Chesapeake, Suffolk/Isle of Wight, Southampton Counties CoC"
+shaggins@theplanningcouncil.org,Shantelle,Haggins,,Complete,,"VA-501 - Norfolk, Chesapeake, Suffolk/Isle of Wight, Southampton Counties CoC"
+jschaller@theplanningcouncil.org,Jordan,Schaller,,Complete,,"VA-501 - Norfolk, Chesapeake, Suffolk/Isle of Wight, Southampton Counties CoC"
+carol.tuning@roanokeva.gov,Carol,Tuning,,,,"VA-502 - Roanoke City and County, Salem CoC"
+annemarieg@councilofcommunityservices.org,Anne-Marie,Green,,,,"VA-502 - Roanoke City and County, Salem CoC"
+tstradfo@vbgov.com,Tiffany,Stradford,,,,VA-503 - Virginia Beach CoC
+jschaller@theplanningcouncil.org,Jordan,Schaller,,,,VA-503 - Virginia Beach CoC
+anthony@tjach.org,Anthony,Haro,,,,VA-504 - Charlottesville CoC
+abrandenburg@theplanningcouncil.org,Amanda,Brandenburg,,,,"VA-505 - Newport News, Hampton/Virginia Peninsula CoC"
+kgriffith@theplanningcouncil.org,Karen,Griffith,,,,"VA-505 - Newport News, Hampton/Virginia Peninsula CoC"
+jschaller@theplanningcouncil.org,Jordan,Schaller,,,,"VA-505 - Newport News, Hampton/Virginia Peninsula CoC"
+Angelique.hill@dss.virginia.gov,Angelique,Hill,,,,"VA-505 - Newport News, Hampton/Virginia Peninsula CoC"
+littlehillp@portsmouthva.gov,Pamela,Little-Hill,,,,VA-507 - Portsmouth CoC
+njackson@theplanningcouncil.org,Natalie,Jackson,,,,VA-507 - Portsmouth CoC
+jschaller@theplanningcouncil.org,Jordan,Schaller,,,,VA-507 - Portsmouth CoC
+jadixon@theplanningcouncil.org,Julie,Dixon,,,,VA-507 - Portsmouth CoC
+sarah@miriamshouseprogram.org,Sarah,Quarantotto,,,,VA-508 - Lynchburg CoC
+megan.wood@lynchburgva.gov,Megan,Wood,,,,VA-508 - Lynchburg CoC
+wongway@harrisonburgrha.com,Michael,Wong,,Complete,,"VA-513 - Harrisonburg, Winchester/Western Virginia CoC"
+sporter@themercyhouse.org,Shannon,Porter,,Complete,,"VA-513 - Harrisonburg, Winchester/Western Virginia CoC"
+aoverby@harrisonburgrha.com,Anton,Overby,,Complete,,"VA-513 - Harrisonburg, Winchester/Western Virginia CoC"
+shoukas@gwregion.org,Sam,Shoukas,,,,"VA-514 - Fredericksburg/Spotsylvania, Stafford Counties CoC"
+helpline@fredericksburgcoc.org,Fredericksburg Homelessness Helpline,,,,,"VA-514 - Fredericksburg/Spotsylvania, Stafford Counties CoC"
+andriea.ukrop@dhcd.virginia.gov,Andriea,Ukrop,,,,VA-521 - Virginia Balance of State CoC
+MAckermann@homewardva.org,Margot,Ackerman,,,,VA-521 - Virginia Balance of State CoC
+tvan@arlingtonva.us,Triina,Van,,Complete,,VA-600 - Arlington County CoC
+jdadams@arlingtonva.us,Jenna,Adams,,Complete,,VA-600 - Arlington County CoC
+ahajali@arlingtonva.us,Ahmad,Haj Ali,,Complete,,VA-600 - Arlington County CoC
+jamie.ergas@fairfaxcounty.gov,Jamie,Ergas,,Complete,,VA-601 - Fairfax County CoC
+diana.pina@fairfaxcounty.gov,Diana,Pina,,Complete,,VA-601 - Fairfax County CoC
+Nikki.Thomas-Campbell@fairfaxcounty.gov,Nikki,Thomas-Campbell,,Complete,,VA-601 - Fairfax County CoC
+jennifer.hope@loudoun.gov,Jennifer,Hope,,,,VA-602 - Loudoun County CoC
+allison.foster@loudoun.gov,Allison,Tibbs-Foster,,,,VA-602 - Loudoun County CoC
+stefan.caine@alexandriava.gov,Stefan,Caine,,,,VA-603 - Alexandria CoC
+jessica.lurz@alexandriava.gov,Jessica,"Lurz, Msw",,,,VA-603 - Alexandria CoC
+ramin.shaheedian@alexandriava.gov,Ramin,Shaheedian,,,,VA-603 - Alexandria CoC
+oreid@pwcgov.org,Oliver,T. Reid,,Complete,,VA-604 - Prince William County CoC
+jgravette@pwcgov.org,Jeanine,Gravette,,Complete,,VA-604 - Prince William County CoC
+alapatra@pwcgov.org,Alicia,M. La Patra,,Complete,,VA-604 - Prince William County CoC
+jhector@vihfa.gov,Janine,Hector,,,,VI-500 - Virgin Islands CoC
+brenda.walwyn@dhs.vi.gov,Brenda,Walwyn,,,,VI-500 - Virgin Islands CoC
+jgreen@mtoc.vi,Josina,Green,Yes,,,VI-500 - Virgin Islands CoC
+daniel@vsha.org,Daniel,Blankenship,,,,VT-500 - Vermont Balance of State CoC
+info@vermont211.org,Maryellen,Mendl,,,,VT-500 - Vermont Balance of State CoC
+david.eberbach@icalliances.org,David,Eberbach,,,,VT-500 - Vermont Balance of State CoC
+vrussell@burlingtonvt.gov,Valerie,Russell,,,,VT-501 - Burlington/Chittenden County CoC
+maryellen@unitedwaysvt.org,Maryellen,Mendl,,,,VT-501 - Burlington/Chittenden County CoC
+adam.smith@icalliances.org,Adam,Smith,,,,VT-501 - Burlington/Chittenden County CoC
+adrienne.quinn@kingcounty.gov,Adrienne,Quinn,,Complete,,WA-500 - Seattle/King County CoC
+kate.speltz@kingcounty.gov,Kate,Speltz,,Complete,,WA-500 - Seattle/King County CoC
+nick.mondau@commerce.wa.gov,Nick,Mondau,,,,WA-501 - Washington Balance of State CoC
+Mark.Porter@commerce.wa.gov,Mattmark,Porter,,Opt Out,No longer works at CoC,WA-501 - Washington Balance of State CoC
+talia.scott@commerce.wa.gov,Talia,Scott,,,,WA-501 - Washington Balance of State CoC
+kkeenan@spokanecity.org,Kelly,Keenan,,,,WA-502 - Spokane City and County CoC
+rtuno@spokanecity.org,Rebekah,Tuno,,,,WA-502 - Spokane City and County CoC
+dglewis@spokanecity.org,David,Lewis,,,,WA-502 - Spokane City and County CoC
+bruce.dammeier@piercecountywa.gov,Bruce,Dammeier,,Complete,,"WA-503 - Tacoma, Lakewood/Pierce County CoC"
+jeff.rodgers@piercecountywa.gov,Jeff,Rodgers,,Complete,,"WA-503 - Tacoma, Lakewood/Pierce County CoC"
+jackiem.anderson@co.snohomish.wa.us,Jackie,Anderson,,,,WA-504 - Everett/Snohomish County CoC
+debbi.trosvig@co.snohomish.wa.us,Debbi,Trosvig,,,,WA-504 - Everett/Snohomish County CoC
+stephanie.patterson@co.snohomish.wa.us,Stephanie,Patterson,,,,WA-504 - Everett/Snohomish County CoC
+kbudd@councilforthehomeless.org,Kate,Budd,,Complete,,WA-508 - Vancouver/Clark County CoC
+mbaker@councilforthehomeless.org,Melissa,Baker,,Complete,,WA-508 - Vancouver/Clark County CoC
+dwhitley@councilforthehomeless.org,Dale,Whitley,,Complete,,WA-508 - Vancouver/Clark County CoC
+carrie.poser@wibos.org,Carrie,Poser,,Complete,,WI-500 - Wisconsin Balance of State CoC
+adam.smith@icalliances.org,Adam,Smith,,Complete,,WI-500 - Wisconsin Balance of State CoC
+smahan@milwaukee.gov,Steven,Mahan,,,,WI-501 - Milwaukee City and County CoC
+cshana@milwaukee.gov,Claire,Shanahan,,,,WI-501 - Milwaukee City and County CoC
+Adam.Smith@icalliances.org,Adam,Smith,,,,WI-501 - Milwaukee City and County CoC
+glorenzen@haloinc.org,Gai,Lorenzen,,,,WI-502 - Racine City and County CoC
+adam.smith@icalliances.org,Adam,Smith,,,,WI-502 - Racine City and County CoC
+tkoppmueller@cityofmadison.com,Torrie,Kopp Mueller,,Complete,,WI-503 - Madison/Dane County CoC
+slim@cityofmadison.com,Sarah,Lim,,Complete,,WI-503 - Madison/Dane County CoC
+adam.smith@icalliances.org,Adam,Smith,,Complete,,WI-503 - Madison/Dane County CoC
+lbadia@wheelinghomeless.org,Lisa,Badia,,,,"WV-500 - Wheeling, Weirton Area CoC"
+KKnight@wheelinghomeless.org,Kim,Knight,Yes,,,"WV-500 - Wheeling, Weirton Area CoC"
+amanda.coleman@harmonyhousewv.com,Amanda,Coleman,,,,"WV-501 - Huntington/Cabell, Wayne Counties CoC"
+karen.yost@prestera.org,Karen,Yost,,,,"WV-501 - Huntington/Cabell, Wayne Counties CoC"
+kanawhavalleycollective@yahoo.com,Traci,Strickland,,,,"WV-503 - Charleston/Kanawha, Putnam, Boone, Clay Counties CoC"
+zachbrown@wvceh.org,Zachary,Brown,,Complete,,WV-508 - West Virginia Balance of State CoC
+ces@wvceh.org,Stacey,Rogers,,Complete,,WV-508 - West Virginia Balance of State CoC
+karla.mcclaren@wyo.gov,Karla,Mcclaren,,,,WY-500 - Wyoming Statewide CoC
+tracy@ccswy.org,Tracy,Obert,,,,WY-500 - Wyoming Statewide CoC
+bobbie.nielsen@icalliances.org,Bobbie,Nielsen,,,,WY-500 - Wyoming Statewide CoC
+martha.benioff@sfgov.org,Martha,Benioff,,Complete,,CA-501 - San Francisco CoC
+jaime.jenett@cchealth.org,Jaime,Jenett,,,,CA-505 - Richmond/Contra Costa County CoC
+hliddle@vinnies.org,Hayley,Liddle,,,,CA-507 - Marin County CoC
+lsaba@smcgov.org,Lody,Saba,,,,CA-512 - Daly City/San Mateo County CoC
+kalbers@co.santa-barbara.ca.us,Kimberlee,Albers,,,,CA-603 - Santa Maria/Santa Barbara County CoC
+aramsaran@housingalliancede.org,Amelia,Ramsaran,,,,DE-500 - Delaware Statewide CoC
+amiller@unitedwayncfl.org,Amber,Miller,,,,"FL-508 - Gainesville/Alachua, Putnam Counties CoC"
+jhayes@changinghomelessness.org,Jeanne,Hayes,,,,"FL-510 - Jacksonville-Duval, Clay Counties CoC"
+lwarner@swandvhl.org,Linda,Warner,,Complete,,IL-520 - Southern Illinois CoC
+mwatson@gkcceh.org,Marqueia,Watson,,,,"KS-505 - Overland Park, Shawnee/Johnson County CoC"
+karen.byron@state.ma.us,Karen,Byron,,,,MA-516 - Massachusetts Balance of State CoC
+davisva@stlouis-mo.gov,Valerie,Russell,,,,MO-501 - Saint Louis City CoC
+jherring@capefearcog.org,Judith,Herring,,,,"NC-506 - Wilmington/Brunswick, New Hanover, Pender Counties CoC"
+gserio@hcnj.us,George ,Serio,,Complete,,"NJ-506 - Jersey City, Bayonne/Hudson County CoC"
+macree@nj211.org,Melissa,Acree,,,,NJ-507 - New Brunswick/Middlesex County CoC
+ashley.kerrick@dor.org,Ashley,Kerrick,,,,"NY-501 - Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC"
+jennifer.carlson@flacra.org,Jennifer,Carlson,,,,"NY-513 - Wayne, Ontario, Seneca, Yates Counties CoC"
+saltomare@rupco.org,Sandy,Altomare,,,,NY-608 - Kingston/Ulster County CoC
+jackieagee@accesshelps.org,Jackie,Agee,,,,"OR-502 - Medford, Ashland/Jackson County CoC"
+jascarate@homelesscoalition.org,Jamie,Ascarate,,,,TN-500 - Chattanooga/Southeast Tennessee CoC
+wayne@chpwc.org,Wayne,Weaver,,,,TN-503 - Central Tennessee CoC
+Laurenking@ahomewithhope.org,Lauren,King,,,,"TX-601 - Fort Worth, Arlington/Tarrant County CoC"
+lisa.zappia@prestera.org,Lisa,Zappia,,,,"WV-501 - Huntington/Cabell, Wayne Counties CoC"
